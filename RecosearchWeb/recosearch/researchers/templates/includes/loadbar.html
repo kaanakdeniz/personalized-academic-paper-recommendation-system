@@ -1,0 +1,32 @@
+<div id="loader" class="d-none loader-wrapper">
+    <span class="loader"><span class="loader-inner"></span></span>
+    <h5 class="ml-2 mb-0 text-white font-weight-bolder">{{ text }}</h5>
+</div>
+
+
+<div id="loader2" class="d-none loader-wrapper">
+    <span class="loader"><span class="loader-inner"></span></span>
+    <h5 class="ml-2 mb-0 text-white font-weight-bolder">{{ txt }}</h5>
+</div>
+
+
+<script>
+    function loadBar() {
+    var loader = document.getElementById('loader')
+    loader.classList.remove('d-none')
+    }
+    function loadBar2() {
+    var loader = document.getElementById('loader2')
+    loader.classList.remove('d-none')
+    }
+
+    
+    var f = document.getElementById('id_file')
+    var frm = document.getElementById('add-file')
+
+    f.onchange = function (e){
+        loadBar2()
+        frm.submit()
+    }
+
+</script>

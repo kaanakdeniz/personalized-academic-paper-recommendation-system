@@ -1,0 +1,57 @@
+<ul class="navbar-nav bg-gradient-success sidebar sidebar-dark accordion" id="accordionSidebar">
+  <!-- Sidebar - Brand -->
+  <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{% url 'home' %}">
+    <h1 class="font-weight-bold">
+      Ø
+    </h1>
+    <div class="sidebar-brand-text mx-3">recØsearch</div>
+  </a>
+
+  <!-- Divider -->
+  <hr class="sidebar-divider my-0" />
+
+  <!-- Nav Item - Dashboard -->
+  <li class="nav-item {% if request.resolver_match.view_name == 'home' %}active{% endif %}">
+    <a class="nav-link" href="{% url 'home' %}">
+      <i class="fas fa-tachometer-alt"></i>
+      <span>Dashboard</span></a
+    >
+  </li>
+
+  <!-- Nav Item - Charts -->
+  <li class="nav-item {% if request.resolver_match.view_name == 'group-list' %}active{% endif %}">
+    <a class="nav-link" href="{% url 'group-list' %}">
+      <i class="fas fa-layer-group"></i>
+      <span class="">Article Groups</span></a
+    >
+  </li>
+
+  <li class="nav-item  {% if request.resolver_match.view_name == 'recommendations' %}active{% endif %}">
+    <a class="nav-link" href="{% url 'recommendations' %}">
+      <i class="fas fa-copy"></i>
+      <span >Recommendations</span></a
+    >
+  </li>
+
+  <li class="nav-item {% if request.resolver_match.view_name == 'articles' %}active{% endif %}">
+    <a class="nav-link" href="{% url 'articles' %}">
+      <i class="fas fa-newspaper"></i>
+      <span class="">Articles</span></a
+    >
+  </li>
+  <li class="nav-item {% if request.resolver_match.view_name == 'related-articles' %}active{% endif %}">
+    <a class="nav-link" href="{% url 'related-articles' %}">
+      <i class="fas fa-archive"></i>
+      <span class="">Related Articles</span></a
+    >
+  </li>
+
+  <!-- Nav Item - Tables -->
+  
+
+  <hr class="sidebar-divider d-none d-md-block" />
+
+  <div class="text-center d-none d-md-inline">
+    <button class="rounded-circle border-0" id="sidebarToggle"></button>
+  </div>
+</ul>

@@ -1,0 +1,103 @@
+:root {
+  --green: #63c512;
+}
+body {
+  font-family: "Karla", sans-serif;
+  font-weight: bold;
+}
+
+.brand {
+  font-size: 2.5rem;
+  color: var(--green);
+}
+
+nav {
+  margin-top: 20px;
+}
+
+nav * {
+  margin-right: 10px;
+}
+
+nav a {
+  font-size: 1.5rem;
+  color: black;
+  opacity: 0.5;
+  transition: all 0.2s ease;
+}
+
+nav a:hover {
+  text-decoration: none;
+  opacity: 9;
+  color: black;
+}
+
+.btn-1,
+.btn-2 {
+  font-size: 1.2rem;
+}
+
+.btn-1 {
+  display: inline-block;
+  color: var(--green);
+  opacity: 1;
+  padding: 10px 50px;
+  border-radius: 50px;
+  text-align: center;
+  border: 1px solid var(--green);
+  transition: background 0.2s ease;
+  white-space: nowrap;
+}
+
+.btn-1:hover {
+  background-color: var(--green);
+  color: white;
+}
+
+.btn-2 {
+  color: white;
+  display: inline-block;
+  background-color: var(--green);
+  opacity: 1;
+  padding: 10px 50px;
+  border-radius: 50px;
+  text-align: center;
+  border: 1px solid var(--green);
+  transition: background 0.2s ease;
+}
+
+.btn-2:hover {
+  background-color: white;
+  color: var(--green);
+}
+
+main {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+main h2 {
+  font-size: 2.5rem;
+  font-weight: inherit;
+}
+
+main .first,
+main .second {
+  font-size: 1.5rem;
+  text-align: left;
+  font-weight: inherit;
+}
+
+.first {
+  color: var(--green);
+}
+
+.second {
+  opacity: 0.6;
+}
+
+footer {
+  text-align: center;
+  font-weight: 300;
+  font-size: 0.8em;
+}

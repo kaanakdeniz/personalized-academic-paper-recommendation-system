@@ -1,0 +1,26 @@
+{% extends 'base/dashbase.html' %} {% block content %}
+
+<div class="mr-2 ml-1 mb-4 row d-flex justify-content-center align-items-center">
+    <!-- <a class="back" href="{% url 'group-list' %}"><i
+            class="ml-2 mr-2 fas fa-arrow-circle-left text-green-900"></i>Back</a> -->
+
+    {% if "related-articles" in request.get_full_path %}
+    <h1 class="h3 mb-0 text-gray-800">Related Articles</h1>
+    {% else %}
+    <h1 class="h3 mb-0 text-gray-800">Articles</h1>
+    {% endif %}
+
+</div>
+
+{% if "related-articles" in request.get_full_path %}
+{% include 'includes/filter.html' with page="related-articles" %}
+{% else %}
+{% include 'includes/filter.html' with page="articles" %}
+{% endif %}
+
+
+<div class="card shadow bg-light">
+    {% include 'includes/table.html' %}
+</div>
+
+{% endblock %}

@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.back {
+  position: absolute;
+  left: 5px;
+  display: flex;
+  align-items: center;
+  color: #cccccc;
+  font-weight: bold;
+  transition: transform ease 0.2s;
+}
+
+.back:hover {
+  color: #cccccc;
+  text-decoration: none;
+  transform: scale(1.1);
+}

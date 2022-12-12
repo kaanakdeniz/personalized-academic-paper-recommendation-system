@@ -1,0 +1,1278 @@
+title,summary,pdf
+"Spatial geometry of charged rotating and non-rotating rings in rotating
+  and non-rotating frames","  Spatial geometry of charged thin rotating and non-rotating rings in a
+rotating frame is investigated. It is shown, on an example of interaction
+between a charged probe and two positive charged non-rotating and negative
+charged rotating rings that the spatial geometry of the rotating ring in the
+rotating frame has to be different to the spatial geometry of the rotating
+frame. In the absent of direct relation between the spatial geometry rotating
+frame and the spatial geometry of the rotating ring in that frame the
+possibility of a non-flat spatial geometry of rotating electron rings in
+tokamak plasma is discussed.
+",http://arxiv.org/pdf/1602.05174v1
+Differential Rotation in F Stars,"  Differential rotation can be detected in single line profiles of stars
+rotating more rapidly than about $v \sin{i} = 10$ km s$^{-1}$ with the Fourier
+transform technique. This allows to search for differential rotation in large
+samples to look for correlations between differential rotation and other
+stellar parameters. I analyze the fraction of differentially rotating stars as
+a function of color, rotation, and activity in a large sample of F-type stars.
+Color and rotation exhibit a correlation with differential rotation in the
+sense that more stars are rotating differentially in the cooler, less rapidly
+rotating stars. Effects of rotation and color, however, cannot be disentangled
+in the underlying sample. No trend with activity is found.
+",http://arxiv.org/pdf/0710.2398v1
+Antisolar differential rotation of slowly rotating cool stars,"  Rotating stellar convection transports angular momentum towards the equator,
+generating the characteristic equatorial acceleration of the solar rotation
+while the radial flux of angular momentum is always inwards. New numerical box
+simulations for the meridional cross-correlation $\langle u_\theta
+u_\phi\rangle $, however, reveal the angular momentum transport towards the
+poles for slow rotation and towards the equator for fast rotation. The
+explanation is that for slow rotation a negative radial gradient of the angular
+velocity always appears, which in combination with a so-far neglected
+rotation-induced off-diagonal eddy viscosity term $\nu_\bot$ provides
+""antisolar rotation"" laws with a decelerated equator. Similarly, the
+simulations provided positive values for the rotation-induced correlation
+$\langle u_r u_\theta\rangle $, which is relevant for the resulting latitudinal
+temperature profiles (cool or warm poles) for slow rotation and negative values
+for fast rotation. Observations of the differential rotation of slowly rotating
+stars will therefore lead to a better understanding of the actual stress-strain
+relation, the heat transport, and the underlying rotating convection.
+",http://arxiv.org/pdf/1902.04172v2
+"Rotation- and temperature-dependence of stellar latitudinal differential
+  rotation","  More than 600 high resolution spectra of stars with spectral type F and later
+were obtained in order to search for signatures of differential rotation in
+line profiles. In 147 stars, the rotation law could be measured, 28 of them are
+found to be differentially rotating. Comparison to rotation laws in stars of
+spectral type A reveals that differential rotation sets in at the convection
+boundary in the HR-diagram; no star that is significantly hotter than the
+convection boundary exhibits the signatures of differential rotation. Four late
+A-/early F-type stars close to the convection boundary and at vsini~100 km/s
+show extraordinarily strong absolute shear at short rotation periods around one
+day. It is suggested that this is due to their small convection zone depth and
+that it is connected to a narrow range in surface velocity. Detection
+frequencies of differential rotation were analyzed in stars with varying
+temperature and rotation velocity. Measurable differential rotation is more
+frequent in late-type stars and slow rotators. The strength of absolute shear
+and differential rotation are examined as functions of the stellar effective
+temperature and rotation period. The strongest shear is found at rotation
+periods between two and three days. In slower rotators, the strongest shear at
+a given rotation rate is given approximately by DOmega_max ~ P^{-1}. In faster
+rotators, alpha_max and DOmega_max diminish less rapidly. A comparison with
+differential rotation measurements in stars of later spectral type shows that
+F-stars exhibit stronger shear than cooler stars do, the upper boundary in
+absolute shear DOmega with temperature is consistent with the temperature
+scaling law found in Doppler Imaging measurements.
+",http://arxiv.org/pdf/astro-ph/0509399v2
+Slowly rotating scalar field wormholes: the second order approximation,"  We discuss rotating wormholes in general relativity with a scalar field with
+negative kinetic energy. To solve the problem, we use the assumption about slow
+rotation. The role of a small dimensionless parameter plays the ratio of the
+linear velocity of rotation of the wormhole's throat and the velocity of light.
+We construct the rotating wormhole solution in the second order approximation
+with respect to the small parameter. The analysis shows that the asymptotical
+mass of the rotating wormhole is greater than that of the non-rotating one, and
+the NEC violation in the rotating wormhole spacetime is weaker than that in the
+non-rotating one.
+",http://arxiv.org/pdf/0809.1923v1
+"Irreducible decomposition and calculating of multiplicity of the
+  symmetric and exterior powers representation of finite groups","  In this paper we consider symmetric powers representation and exterior powers
+representation of finite groups, which generated by the representation which
+has finite dimension over the complex field. We calculate the multiplicity of
+irreducible component of two representations of some representation by using a
+character theory of representation and a pre-lambda-ring, for example, the
+regular representation.
+",http://arxiv.org/pdf/1405.2042v1
+Diagram of Representations of Universal Algebras,"  Theory of representations of universal algebra is a natural development of
+the theory of universal algebra. In the book, I considered representation of
+universal algebra, diagram of representations and examples of representation.
+Morphism of the representation is the map that conserve the structure of the
+representation. Exploring of morphisms of the representation leads to the
+concepts of generating set and basis of representation.
+",http://arxiv.org/pdf/1908.04418v2
+"Distinguished Regular Supercuspidal Representations and Inductive
+  Constructions of Representations","  This paper develops the theory of distinguished regular supercuspidal
+representations, and it highlights how the correspondence between regular
+characters and regular supercuspidal representations resembles induction in
+certain ways.
+",http://arxiv.org/pdf/1808.03982v1
+Imprimitivity theorem for groupoid representations,"  We define and investigate the concept of the groupoid representation induced
+by a representation of the isotropy subgroupoid. Groupoids in question are
+locally compact transitive topological groupoids. We formulate and prove the
+imprimitivity theorem for such representations which is a generalization of the
+classical Mackey's theorem known from the theory of group representations.
+",http://arxiv.org/pdf/1008.2084v1
+"Cross-projective representations of pairs of anticommutative algebras,
+  alloys and finite-dimensional irreducible representations of some
+  infinite-dimensional Lie algebras","  The article is devoted to some ``strange'' phenomena of representation theory
+and their interrelations. Cross-projective representations of pairs of
+anticommutative algebras, alloys, their universal envelopping Lie algebras and
+their representations, quaternary algebras and their alloyability are
+discussed. Considered examples allow to conclude that new representations have
+some intriguing features (continuous moduli of finite-dimensional irreducible
+representations, sophisticated Clebsch-Gordan coefficient calculus, etc.).
+",http://arxiv.org/pdf/math/9806005v1
+"Minimax deviation strategies for machine learning and recognition with
+  short learning samples","  The article is devoted to the problem of small learning samples in machine
+learning. The flaws of maximum likelihood learning and minimax learning are
+looked into and the concept of minimax deviation learning is introduced that is
+free of those flaws.
+",http://arxiv.org/pdf/1707.04849v1
+Some Insights into Lifelong Reinforcement Learning Systems,"  A lifelong reinforcement learning system is a learning system that has the
+ability to learn through trail-and-error interaction with the environment over
+its lifetime. In this paper, I give some arguments to show that the traditional
+reinforcement learning paradigm fails to model this type of learning system.
+Some insights into lifelong reinforcement learning are provided, along with a
+simplistic prototype lifelong reinforcement learning system.
+",http://arxiv.org/pdf/2001.09608v1
+"Dex: Incremental Learning for Complex Environments in Deep Reinforcement
+  Learning","  This paper introduces Dex, a reinforcement learning environment toolkit
+specialized for training and evaluation of continual learning methods as well
+as general reinforcement learning problems. We also present the novel continual
+learning method of incremental learning, where a challenging environment is
+solved using optimal weight initialization learned from first solving a similar
+easier environment. We show that incremental learning can produce vastly
+superior results than standard methods by providing a strong baseline method
+across ten Dex environments. We finally develop a saliency method for
+qualitative analysis of reinforcement learning, which shows the impact
+incremental learning has on network attention.
+",http://arxiv.org/pdf/1706.05749v1
+Augmented Q Imitation Learning (AQIL),"  The study of unsupervised learning can be generally divided into two
+categories: imitation learning and reinforcement learning. In imitation
+learning the machine learns by mimicking the behavior of an expert system
+whereas in reinforcement learning the machine learns via direct environment
+feedback. Traditional deep reinforcement learning takes a significant time
+before the machine starts to converge to an optimal policy. This paper proposes
+Augmented Q-Imitation-Learning, a method by which deep reinforcement learning
+convergence can be accelerated by applying Q-imitation-learning as the initial
+training process in traditional Deep Q-learning.
+",http://arxiv.org/pdf/2004.00993v2
+"A Learning Algorithm for Relational Logistic Regression: Preliminary
+  Results","  Relational logistic regression (RLR) is a representation of conditional
+probability in terms of weighted formulae for modelling multi-relational data.
+In this paper, we develop a learning algorithm for RLR models. Learning an RLR
+model from data consists of two steps: 1- learning the set of formulae to be
+used in the model (a.k.a. structure learning) and learning the weight of each
+formula (a.k.a. parameter learning). For structure learning, we deploy Schmidt
+and Murphy's hierarchical assumption: first we learn a model with simple
+formulae, then more complex formulae are added iteratively only if all their
+sub-formulae have proven effective in previous learned models. For parameter
+learning, we convert the problem into a non-relational learning problem and use
+an off-the-shelf logistic regression learning algorithm from Weka, an
+open-source machine learning tool, to learn the weights. We also indicate how
+hidden features about the individuals can be incorporated into RLR to boost the
+learning performance. We compare our learning algorithm to other structure and
+parameter learning algorithms in the literature, and compare the performance of
+RLR models to standard logistic regression and RDN-Boost on a modified version
+of the MovieLens data-set.
+",http://arxiv.org/pdf/1606.08531v1
+"Channel matrix, measurement matrix and collapsed matrix in teleportation","  In this paper, two kinds of coefficient matrixes (channel matrix, measurement
+matrix)associated with the pure state for teleportation are presented, the
+general relation among channel matrix, measurement matrix and collapsed matrix
+is obtained. In addition, a criterion for teleportation that the number of
+coefficient of an unknown state is determined by the rank of the collapsed
+matrix is given.
+",http://arxiv.org/pdf/1402.1240v1
+A Holonomic Ideal Annihilating the Fisher-Bingham Integral,"  We calculate the integration ideal of annihilating differential operators of
+the non-normalized Fisher-Bingham distribution and show that the ideal agrees
+with the set of operators for the Fisher-Bingham integral given in ""Holonomic
+Gradient Descent and its Application to the Fisher-Bingham Integral"". They
+conjectured that the set generates a holonomic ideal and we prove their
+conjecture.
+",http://arxiv.org/pdf/1104.1411v2
+Tauberian theorems and large deviations,"  The link between Tauberian theorems and large deviations is surveyed, with
+particular reference to regular variation.
+",http://arxiv.org/pdf/0712.3410v1
+Solvability of the asymmetric Bingham fluid equations,"  In this work, we investigate the asymmetric Bingham fluid equations. The
+asymmetric fluid of Bingham includes symmetric and antisymmetric stresses with
+such stresses appearing as an elastic response to the micro-rotational
+deformations of grains in a complex fluid. We show the global-in-time
+solvability of a weak solution for three dimensional boundary value problem
+with Navier boundary conditions of the asymmetric Bingham fluid equations.
+",http://arxiv.org/pdf/1811.07427v1
+Multivariate prediction and matrix Szegö theory,"  Following the recent survey by the same author of Szeg\""o's theorem and
+orthogonal polynomials on the unit circle (OPUC) in the scalar case, we survey
+the corresponding multivariate prediction theory and matrix OPUC (MOPUC).
+",http://arxiv.org/pdf/1203.0962v1
+Riesz Means and Beurling Moving Averages,"  We survey the interplay between the Riesz means and Beurling moving averages
+of the title, obtaining Abelian and Tauberian results relating different Riesz
+means (or Beurling moving averages) whose defining functions have comparable
+growth. The motivation includes strong limit theorems in probability theory.
+",http://arxiv.org/pdf/1502.07494v1
+StarMap for Category-Agnostic Keypoint and Viewpoint Estimation,"  Semantic keypoints provide concise abstractions for a variety of visual
+understanding tasks. Existing methods define semantic keypoints separately for
+each category with a fixed number of semantic labels in fixed indices. As a
+result, this keypoint representation is in-feasible when objects have a varying
+number of parts, e.g. chairs with varying number of legs. We propose a
+category-agnostic keypoint representation, which combines a multi-peak heatmap
+(StarMap) for all the keypoints and their corresponding features as 3D
+locations in the canonical viewpoint (CanViewFeature) defined for each
+instance. Our intuition is that the 3D locations of the keypoints in canonical
+object views contain rich semantic and compositional information. Using our
+flexible representation, we demonstrate competitive performance in keypoint
+detection and localization compared to category-specific state-of-the-art
+methods. Moreover, we show that when augmented with an additional depth channel
+(DepthMap) to lift the 2D keypoints to 3D, our representation can achieve
+state-of-the-art results in viewpoint estimation. Finally, we show that our
+category-agnostic keypoint representation can be generalized to novel
+categories.
+",http://arxiv.org/pdf/1803.09331v2
+Pose2Instance: Harnessing Keypoints for Person Instance Segmentation,"  Human keypoints are a well-studied representation of people.We explore how to
+use keypoint models to improve instance-level person segmentation. The main
+idea is to harness the notion of a distance transform of oracle provided
+keypoints or estimated keypoint heatmaps as a prior for person instance
+segmentation task within a deep neural network. For training and evaluation, we
+consider all those images from COCO where both instance segmentation and human
+keypoints annotations are available. We first show how oracle keypoints can
+boost the performance of existing human segmentation model during inference
+without any training. Next, we propose a framework to directly learn a deep
+instance segmentation model conditioned on human pose. Experimental results
+show that at various Intersection Over Union (IOU) thresholds, in a constrained
+environment with oracle keypoints, the instance segmentation accuracy achieves
+10% to 12% relative improvements over a strong baseline of oracle bounding
+boxes. In a more realistic environment, without the oracle keypoints, the
+proposed deep person instance segmentation model conditioned on human pose
+achieves 3.8% to 10.5% relative improvements comparing with its strongest
+baseline of a deep network trained only for segmentation.
+",http://arxiv.org/pdf/1704.01152v1
+Keypoint Transfer for Fast Whole-Body Segmentation,"  We introduce an approach for image segmentation based on sparse
+correspondences between keypoints in testing and training images. Keypoints
+represent automatically identified distinctive image locations, where each
+keypoint correspondence suggests a transformation between images. We use these
+correspondences to transfer label maps of entire organs from the training
+images to the test image. The keypoint transfer algorithm includes three steps:
+(i) keypoint matching, (ii) voting-based keypoint labeling, and (iii)
+keypoint-based probabilistic transfer of organ segmentations. We report
+segmentation results for abdominal organs in whole-body CT and MRI, as well as
+in contrast-enhanced CT and MRI. Our method offers a speed-up of about three
+orders of magnitude in comparison to common multi-atlas segmentation, while
+achieving an accuracy that compares favorably. Moreover, keypoint transfer does
+not require the registration to an atlas or a training phase. Finally, the
+method allows for the segmentation of scans with highly variable field-of-view.
+",http://arxiv.org/pdf/1806.08723v1
+"Unsupervised Keypoint Learning for Guiding Class-Conditional Video
+  Prediction","  We propose a deep video prediction model conditioned on a single image and an
+action class. To generate future frames, we first detect keypoints of a moving
+object and predict future motion as a sequence of keypoints. The input image is
+then translated following the predicted keypoints sequence to compose future
+frames. Detecting the keypoints is central to our algorithm, and our method is
+trained to detect the keypoints of arbitrary objects in an unsupervised manner.
+Moreover, the detected keypoints of the original videos are used as
+pseudo-labels to learn the motion of objects. Experimental results show that
+our method is successfully applied to various datasets without the cost of
+labeling keypoints in videos. The detected keypoints are similar to
+human-annotated labels, and prediction results are more realistic compared to
+the previous methods.
+",http://arxiv.org/pdf/1910.02027v1
+Neural Outlier Rejection for Self-Supervised Keypoint Learning,"  Identifying salient points in images is a crucial component for visual
+odometry, Structure-from-Motion or SLAM algorithms. Recently, several learned
+keypoint methods have demonstrated compelling performance on challenging
+benchmarks. However, generating consistent and accurate training data for
+interest-point detection in natural images still remains challenging,
+especially for human annotators. We introduce IO-Net (i.e. InlierOutlierNet), a
+novel proxy task for the self-supervision of keypoint detection, description
+and matching. By making the sampling of inlier-outlier sets from point-pair
+correspondences fully differentiable within the keypoint learning framework, we
+show that are able to simultaneously self-supervise keypoint description and
+improve keypoint matching. Second, we introduce KeyPointNet, a keypoint-network
+architecture that is especially amenable to robust keypoint detection and
+description. We design the network to allow local keypoint aggregation to avoid
+artifacts due to spatial discretizations commonly used for this task, and we
+improve fine-grained keypoint descriptor performance by taking advantage of
+efficient sub-pixel convolutions to upsample the descriptor feature-maps to a
+higher operating resolution. Through extensive experiments and ablative
+analysis, we show that the proposed self-supervised keypoint learning method
+greatly improves the quality of feature matching and homography estimation on
+challenging benchmarks over the state-of-the-art.
+",http://arxiv.org/pdf/1912.10615v1
+"Robust Anomaly Detection and Backdoor Attack Detection Via Differential
+  Privacy","  Outlier detection and novelty detection are two important topics for anomaly
+detection. Suppose the majority of a dataset are drawn from a certain
+distribution, outlier detection and novelty detection both aim to detect data
+samples that do not fit the distribution. Outliers refer to data samples within
+this dataset, while novelties refer to new samples. In the meantime, backdoor
+poisoning attacks for machine learning models are achieved through injecting
+poisoning samples into the training dataset, which could be regarded as
+""outliers"" that are intentionally added by attackers. Differential privacy has
+been proposed to avoid leaking any individual's information, when aggregated
+analysis is performed on a given dataset. It is typically achieved by adding
+random noise, either directly to the input dataset, or to intermediate results
+of the aggregation mechanism. In this paper, we demonstrate that applying
+differential privacy can improve the utility of outlier detection and novelty
+detection, with an extension to detect poisoning samples in backdoor attacks.
+We first present a theoretical analysis on how differential privacy helps with
+the detection, and then conduct extensive experiments to validate the
+effectiveness of differential privacy in improving outlier detection, novelty
+detection, and backdoor attack detection.
+",http://arxiv.org/pdf/1911.07116v1
+Visual Concept Detection and Real Time Object Detection,"  Bag-of-words model is implemented and tried on 10-class visual concept
+detection problem. The experimental results show that ""DURF+ERT+SVM""
+outperforms ""SIFT+ERT+SVM"" both in detection performance and computation
+efficiency. Besides, combining DURF and SIFT results in even better detection
+performance. Real-time object detection using SIFT and RANSAC is also tried on
+simple objects, e.g. drink can, and good result is achieved.
+",http://arxiv.org/pdf/1104.0582v1
+Cluster Based Cost Efficient Intrusion Detection System For Manet,"  Mobile ad-hoc networks are temporary wireless networks. Network resources are
+abnormally consumed by intruders. Anomaly and signature based techniques are
+used for intrusion detection. Classification techniques are used in anomaly
+based techniques. Intrusion detection techniques are used for the network
+attack detection process. Two types of intrusion detection systems are
+available. They are anomaly detection and signature based detection model. The
+anomaly detection model uses the historical transactions with attack labels.
+The signature database is used in the signature based IDS schemes.
+  The mobile ad-hoc networks are infrastructure less environment. The intrusion
+detection applications are placed in a set of nodes under the mobile ad-hoc
+network environment. The nodes are grouped into clusters. The leader nodes are
+assigned for the clusters. The leader node is assigned for the intrusion
+detection process. Leader nodes are used to initiate the intrusion detection
+process. Resource sharing and lifetime management factors are considered in the
+leader election process. The system optimizes the leader election and intrusion
+detection process.
+  The system is designed to handle leader election and intrusion detection
+process. The clustering scheme is optimized with coverage and traffic level.
+Cost and resource utilization is controlled under the clusters. Node mobility
+is managed by the system.
+",http://arxiv.org/pdf/1311.1446v1
+"YOLO9000: Better, Faster, Stronger","  We introduce YOLO9000, a state-of-the-art, real-time object detection system
+that can detect over 9000 object categories. First we propose various
+improvements to the YOLO detection method, both novel and drawn from prior
+work. The improved model, YOLOv2, is state-of-the-art on standard detection
+tasks like PASCAL VOC and COCO. At 67 FPS, YOLOv2 gets 76.8 mAP on VOC 2007. At
+40 FPS, YOLOv2 gets 78.6 mAP, outperforming state-of-the-art methods like
+Faster RCNN with ResNet and SSD while still running significantly faster.
+Finally we propose a method to jointly train on object detection and
+classification. Using this method we train YOLO9000 simultaneously on the COCO
+detection dataset and the ImageNet classification dataset. Our joint training
+allows YOLO9000 to predict detections for object classes that don't have
+labelled detection data. We validate our approach on the ImageNet detection
+task. YOLO9000 gets 19.7 mAP on the ImageNet detection validation set despite
+only having detection data for 44 of the 200 classes. On the 156 classes not in
+COCO, YOLO9000 gets 16.0 mAP. But YOLO can detect more than just 200 classes;
+it predicts detections for more than 9000 different object categories. And it
+still runs in real-time.
+",http://arxiv.org/pdf/1612.08242v1
+"Enhancing classical target detection performance using nonclassical
+  Light","  In this article, we demonstrate theoretically and experimentally how one can
+exploit correlations generated in monolithic semiconductor quantum light
+sources to enhance the performance of optical target detection. A prototype
+target detection protocol, the quantum time-correlation (QTC) detection
+protocol, with spontaneous parametric down-converted photon-pair sources, is
+discussed. The QTC protocol only requires time-resolved photon-counting
+detection, which is phase-insensitive and therefore suitable for optical target
+detection. As a comparison to the QTC detection protocol, we also consider a
+classical phase-insensitive target detection protocol based on intensity
+detection. We formulated the target detection problem as a probe light
+transmission estimation problem, and we quantify the target detection
+performance with the Fisher information criterion and the receiver operation
+characteristic analysis. Unlike classical target detection and ranging
+protocols, the probe photons in our QTC detection protocol are completely
+indistinguishable from the background noise and therefore useful for covert
+ranging applications. Finally, our technological platform is highly scalable
+and tunable and thus amenable to large scale integration necessary for
+practical applications.
+",http://arxiv.org/pdf/2004.06773v1
+Deep Convolutional Neural Networks for Map-Type Classification,"  Maps are an important medium that enable people to comprehensively understand
+the configuration of cultural activities and natural elements over different
+times and places. Although massive maps are available in the digital era, how
+to effectively and accurately access the required map remains a challenge
+today. Previous works partially related to map-type classification mainly
+focused on map comparison and map matching at the local scale. The features
+derived from local map areas might be insufficient to characterize map content.
+To facilitate establishing an automatic approach for accessing the needed map,
+this paper reports our investigation into using deep learning techniques to
+recognize seven types of map, including topographic map, terrain map, physical
+map, urban scene map, the National Map, 3D map, nighttime map, orthophoto map,
+and land cover classification map. Experimental results show that the
+state-of-the-art deep convolutional neural networks can support automatic
+map-type classification. Additionally, the classification accuracy varies
+according to different map-types. We hope our work can contribute to the
+implementation of deep learning techniques in cartographical community and
+advance the progress of Geographical Artificial Intelligence (GeoAI).
+",http://arxiv.org/pdf/1805.10402v1
+$2^n-$rational maps,"  We present a natural extension of the notion of nondegenerate rational maps
+(quadrirational maps) to arbitrary dimensions. We refer to these maps as
+$2^n-$rational maps. In this note we construct a rich family of $2^n-$rational
+maps. These maps by construction are involutions and highly symmetric in the
+sense that the maps and their companion maps have the same functional form.
+",http://arxiv.org/pdf/1512.00771v1
+Some Properties of Mappings on Generalized Topological Spaces,"  This paper considers generalizations of open mappings, closed mappings,
+pseudo-open mappings, and quotient mappings from topological spaces to
+generalized topological spaces. Characterizations of these classes of mappings
+are obtained and some relationships among these classes are established.
+",http://arxiv.org/pdf/1501.06388v1
+Extension maps,"  We define extension maps as maps that extend a system (through adding
+ancillary systems) without changing the state in the original system. We show,
+using extension maps, why a completely positive operation on an initially
+entangled system results in a non positive mapping of a subsystem. We also show
+that any trace preserving map, either positive or negative, can be decomposed
+in terms of an extension map and a completely positive map.
+",http://arxiv.org/pdf/quant-ph/0503119v1
+On Net Maps: Examples and Nonexistence Results,"  A Thurston map is called nearly Euclidean if its local degree at each
+critical point is 2 and it has exactly four postcritical points. Nearly
+Euclidean Thurston (NET) maps are simple generalizations of rational Lattes
+maps. We investigate when such a map has the property that the associated
+pullback map on Teichmuller space is constant. We also show that no Thurston
+map of degree 2 has constant pullback map
+",http://arxiv.org/pdf/1507.01096v1
+"Construction of Latent Descriptor Space and Inference Model of
+  Hand-Object Interactions","  Appearance-based generic object recognition is a challenging problem because
+all possible appearances of objects cannot be registered, especially as new
+objects are produced every day. Function of objects, however, has a
+comparatively small number of prototypes. Therefore, function-based
+classification of new objects could be a valuable tool for generic object
+recognition. Object functions are closely related to hand-object interactions
+during handling of a functional object; i.e., how the hand approaches the
+object, which parts of the object and contact the hand, and the shape of the
+hand during interaction. Hand-object interactions are helpful for modeling
+object functions. However, it is difficult to assign discrete labels to
+interactions because an object shape and grasping hand-postures intrinsically
+have continuous variations. To describe these interactions, we propose the
+interaction descriptor space which is acquired from unlabeled appearances of
+human hand-object interactions. By using interaction descriptors, we can
+numerically describe the relation between an object's appearance and its
+possible interaction with the hand. The model infers the quantitative state of
+the interaction from the object image alone. It also identifies the parts of
+objects designed for hand interactions such as grips and handles. We
+demonstrate that the proposed method can unsupervisedly generate interaction
+descriptors that make clusters corresponding to interaction types. And also we
+demonstrate that the model can infer possible hand-object interactions.
+",http://arxiv.org/pdf/1709.03739v1
+Weights for Objects of Monoids,"  The main objective of the paper is to define the construction of the object
+of monoids, over a monoidal category object in any 2-category with finite
+products, as a weighted limit. To simplify the definition of the weight, we use
+matrices of symmetric (possibly colored) operads that define some auxiliary
+categories and 2-categories. Systematic use of these matrices of operads allows
+us to define several similar objects as weighted limits. We show, among others,
+that the constructions of the object of bi-monoids over a symmetric monoidal
+category object or the object of actions of monoids along an action of a
+monoidal category object can be also described as weighted limits.
+",http://arxiv.org/pdf/1306.3215v1
+An Object Model for the Representation of Empirical Knowledge,"  We are currently designing an object oriented model which describes static
+and dynamical knowledge in diff{\'e}rent domains. It provides a twin conceptual
+level. The internal level proposes: the object structure composed of
+sub-objects hierarchy, structure evolution with dynamical functions, same type
+objects comparison with evaluation functions. It uses multiple upward
+inheritance from sub-objects properties to the Object. The external level
+describes: object environment, it enforces object types and uses external
+simple inheritance from the type to the sub-types.
+",http://arxiv.org/pdf/2005.07464v1
+Sparse distributed localized gradient fused features of objects,"  The sparse, hierarchical, and modular processing of natural signals is
+related to the ability of humans to recognize objects with high accuracy. In
+this study, we report a sparse feature processing and encoding method, which
+improved the recognition performance of an automated object recognition system.
+Randomly distributed localized gradient enhanced features were selected before
+employing aggregate functions for representation, where we used a modular and
+hierarchical approach to detect the object features. These object features were
+combined with a minimum distance classifier, thereby obtaining object
+recognition system accuracies of 93% using the Amsterdam library of object
+images (ALOI) database, 92% using the Columbia object image library (COIL)-100
+database, and 69% using the PASCAL visual object challenge 2007 database. The
+object recognition performance was shown to be robust to variations in noise,
+object scaling, and object shifts. Finally, a comparison with eight existing
+object recognition methods indicated that our new method improved the
+recognition accuracy by 10% with ALOI, 8% with the COIL-100 database, and 10%
+with the PASCAL visual object challenge 2007 database.
+",http://arxiv.org/pdf/1411.5268v1
+Large-Scale Object Mining for Object Discovery from Unlabeled Video,"  This paper addresses the problem of object discovery from unlabeled driving
+videos captured in a realistic automotive setting. Identifying recurring object
+categories in such raw video streams is a very challenging problem. Not only do
+object candidates first have to be localized in the input images, but many
+interesting object categories occur relatively infrequently. Object discovery
+will therefore have to deal with the difficulties of operating in the long tail
+of the object distribution. We demonstrate the feasibility of performing fully
+automatic object discovery in such a setting by mining object tracks using a
+generic object tracker. In order to facilitate further research in object
+discovery, we release a collection of more than 360,000 automatically mined
+object tracks from 10+ hours of video data (560,000 frames). We use this
+dataset to evaluate the suitability of different feature representations and
+clustering strategies for object discovery.
+",http://arxiv.org/pdf/1903.00362v2
+Face Liveness Detection Based on Client Identity Using Siamese Network,"  Face liveness detection is an essential prerequisite for face recognition
+applications. Previous face liveness detection methods usually train a binary
+classifier to differentiate between a fake face and a real face before face
+recognition. The client identity information is not utilized in previous face
+liveness detection methods. However, in practical face recognition
+applications, face spoofing attacks are always aimed at a specific client, and
+the client identity information can provide useful clues for face liveness
+detection. In this paper, we propose a face liveness detection method based on
+the client identity using Siamese network. We detect face liveness after face
+recognition instead of before face recognition, that is, we detect face
+liveness with the client identity information. We train a Siamese network with
+image pairs. Each image pair consists of two real face images or one real and
+one fake face images. The face images in each pair come from a same client.
+Given a test face image, the face image is firstly recognized by face
+recognition system, then the real face image of the identified client is
+retrieved to help the face liveness detection. Experiment results demonstrate
+the effectiveness of our method.
+",http://arxiv.org/pdf/1903.05369v1
+SFA: Small Faces Attention Face Detector,"  In recent year, tremendous strides have been made in face detection thanks to
+deep learning. However, most published face detectors deteriorate dramatically
+as the faces become smaller. In this paper, we present the Small Faces
+Attention (SFA) face detector to better detect faces with small scale. First,
+we propose a new scale-invariant face detection architecture which pays more
+attention to small faces, including 4-branch detection architecture and small
+faces sensitive anchor design. Second, feature maps fusion strategy is applied
+in SFA by partially combining high-level features into low-level features to
+further improve the ability of finding hard faces. Third, we use multi-scale
+training and testing strategy to enhance face detection performance in
+practice. Comprehensive experiments show that SFA significantly improves face
+detection performance, especially on small faces. Our real-time SFA face
+detector can run at 5 FPS on a single GPU as well as maintain high performance.
+Besides, our final SFA face detector achieves state-of-the-art detection
+performance on challenging face detection benchmarks, including WIDER FACE and
+FDDB datasets, with competitive runtime speed. Both our code and models will be
+available to the research community.
+",http://arxiv.org/pdf/1812.08402v1
+"Face Detection and Face Recognition In the Wild Using Off-the-Shelf
+  Freely Available Components","  This paper presents an easy and efficient face detection and face recognition
+approach using free software components from the internet. Face detection and
+face recognition problems have wide applications in home and office security.
+Therefore this work will helpful for those searching for a free face
+off-the-shelf face detection system. Using this system, faces can be detected
+in uncontrolled environments. In the detection phase, every individual face is
+detected and in the recognition phase the detected faces are compared with the
+faces in a given data set and recognized.
+",http://arxiv.org/pdf/1901.06585v1
+Comparing Face Detection and Recognition Techniques,"  This paper implements and compares different techniques for face detection
+and recognition. One is find where the face is located in the images that is
+face detection and second is face recognition that is identifying the person.
+We study three techniques in this paper: Face detection using self organizing
+map (SOM), Face recognition by projection and nearest neighbor and Face
+recognition using SVM.
+",http://arxiv.org/pdf/1610.04575v1
+Human Face as human single identity,"  Human face as a physical human recognition can be used as a unique identity
+for computer to recognize human by transforming human face with face algorithm
+as simple text number which can be primary key for human. Human face as single
+identity for human will be done by making a huge and large world centre human
+face database, where the human face around the world will be recorded from time
+to time and from generation to generation. Architecture database will be
+divided become human face image database which will save human face images and
+human face output code which will save human face output code as a
+transformation human face image with face algorithm. As an improvement the
+slightly and simple human face output code database will make human face
+searching process become more fast. Transaction with human face as a
+transaction without card can make human no need their card for the transaction
+and office automation and banking system as an example for implementation
+architecture. As an addition suspect human face database can be extended for
+fighting crime and terrorism by doing surveillance and searching suspect human
+face around the world.
+",http://arxiv.org/pdf/1405.6168v1
+Data Gathering from Path Constrained Mobile Sensors Using Data MULE,"  In Wireless Sensor Network (WSN) sensor nodes are deployed to sense useful
+data from environment. Sensors are energy-constrained devices. To prolong the
+sensor network lifetime, now a days mobile robots (sometimes refer as data
+sink, data mules, or data collectors) are used for collecting the sensed data
+from the sensors. In this environment sensor nodes directly transfer their
+sensed data to the data mules. Sensed data are sometime time sensitive;
+therefore, the data should be collected within a predefined period. Hence,
+depending on the speed of the data mules the trajectory lengths of the data
+mules have upper limits. In this paper an approximation algorithm is proposed
+for collecting data from the mobile sensors using mobile data collectors
+",http://arxiv.org/pdf/1612.04053v1
+A Survey on Sampling and Profiling over Big Data (Technical Report),"  Due to the development of internet technology and computer science, data is
+exploding at an exponential rate. Big data brings us new opportunities and
+challenges. On the one hand, we can analyze and mine big data to discover
+hidden information and get more potential value. On the other hand, the 5V
+characteristic of big data, especially Volume which means large amount of data,
+brings challenges to storage and processing. For some traditional data mining
+algorithms, machine learning algorithms and data profiling tasks, it is very
+difficult to handle such a large amount of data. The large amount of data is
+highly demanding hardware resources and time consuming. Sampling methods can
+effectively reduce the amount of data and help speed up data processing. Hence,
+sampling technology has been widely studied and used in big data context, e.g.,
+methods for determining sample size, combining sampling with big data
+processing frameworks. Data profiling is the activity that finds metadata of
+data set and has many use cases, e.g., performing data profiling tasks on
+relational data, graph data, and time series data for anomaly detection and
+data repair. However, data profiling is computationally expensive, especially
+for large data sets. Therefore, this paper focuses on researching sampling and
+profiling in big data context and investigates the application of sampling in
+different categories of data profiling tasks. From the experimental results of
+these studies, the results got from the sampled data are close to or even
+exceed the results of the full amount of data. Therefore, sampling technology
+plays an important role in the era of big data, and we also have reason to
+believe that sampling technology will become an indispensable step in big data
+processing in the future.
+",http://arxiv.org/pdf/2005.05079v1
+BDGS: A Scalable Big Data Generator Suite in Big Data Benchmarking,"  Data generation is a key issue in big data benchmarking that aims to generate
+application-specific data sets to meet the 4V requirements of big data.
+Specifically, big data generators need to generate scalable data (Volume) of
+different types (Variety) under controllable generation rates (Velocity) while
+keeping the important characteristics of raw data (Veracity). This gives rise
+to various new challenges about how we design generators efficiently and
+successfully. To date, most existing techniques can only generate limited types
+of data and support specific big data systems such as Hadoop. Hence we develop
+a tool, called Big Data Generator Suite (BDGS), to efficiently generate
+scalable big data while employing data models derived from real data to
+preserve data veracity. The effectiveness of BDGS is demonstrated by developing
+six data generators covering three representative data types (structured,
+semi-structured and unstructured) and three data sources (text, graph, and
+table data).
+",http://arxiv.org/pdf/1401.5465v3
+Modern Data Formats for Big Bioinformatics Data Analytics,"  Next Generation Sequencing (NGS) technology has resulted in massive amounts
+of proteomics and genomics data. This data is of no use if it is not properly
+analyzed. ETL (Extraction, Transformation, Loading) is an important step in
+designing data analytics applications. ETL requires proper understanding of
+features of data. Data format plays a key role in understanding of data,
+representation of data, space required to store data, data I/O during
+processing of data, intermediate results of processing, in-memory analysis of
+data and overall time required to process data. Different data mining and
+machine learning algorithms require input data in specific types and formats.
+This paper explores the data formats used by different tools and algorithms and
+also presents modern data formats that are used on Big Data Platform. It will
+help researchers and developers in choosing appropriate data format to be used
+for a particular tool or algorithm.
+",http://arxiv.org/pdf/1707.05364v1
+A Random Sample Partition Data Model for Big Data Analysis,"  Big data sets must be carefully partitioned into statistically similar data
+subsets that can be used as representative samples for big data analysis tasks.
+In this paper, we propose the random sample partition (RSP) data model to
+represent a big data set as a set of non-overlapping data subsets, called RSP
+data blocks, where each RSP data block has a probability distribution similar
+to the whole big data set. Under this data model, efficient block level
+sampling is used to randomly select RSP data blocks, replacing expensive record
+level sampling to select sample data from a big distributed data set on a
+computing cluster. We show how RSP data blocks can be employed to estimate
+statistics of a big data set and build models which are equivalent to those
+built from the whole big data set. In this approach, analysis of a big data set
+becomes analysis of few RSP data blocks which have been generated in advance on
+the computing cluster. Therefore, the new method for data analysis based on RSP
+data blocks is scalable to big data.
+",http://arxiv.org/pdf/1712.04146v2
+Construction of Parallel RIO Codes using Coset Coding with Hamming Codes,"  Random input/output (RIO) code is a coding scheme that enables reading of one
+logical page using a single read threshold in multilevel flash memory. The
+construction of RIO codes is equivalent to the construction of WOM codes.
+Parallel RIO (P-RIO) code is an RIO code that encodes all pages in parallel. In
+this paper, we utilize coset coding with Hamming codes in order to construct
+P-RIO codes. Coset coding is a technique that constructs WOM codes using linear
+binary codes. We leverage the information on the data of all pages to encode
+each page. Our constructed codes store more pages than RIO codes constructed
+via coset coding.
+",http://arxiv.org/pdf/1705.05596v1
+"Construction of Zero Cross Correlation Code using a type of Pascal's
+  Triangle Matrix for Spectral Amplitude Coding Optical Code Division Multiple
+  Access networks","  In this paper a new method to construct zero cross correlation code with the
+help of Pascal's triangle pattern called Pascal's Triangle Matrix Code (PTMC)
+for Spectral Amplitude Coding Optical Code Division Multiple Access (SAC-OCDMA)
+system is successfully developed. The advantages of this code are simplicity of
+code construction, flexibility of choosing code weight and number of users. The
+numerical comparison shows that the newly constructed code is better in code
+length than the existing codes such as Optical Orthogonal Code (OOC), Hadamard,
+Modified Frequency Hopping (MFH) and Modified Double Weight (MDW) codes and it
+supports more users than other Optical Spectrum Code Division Multiple Access
+(OSCDMA) codes.
+",http://arxiv.org/pdf/1608.08459v1
+New Quasi-Cyclic Codes from Simplex Codes,"  As a generalization of cyclic codes, quasi-cyclic (QC) codes contain many
+good linear codes. But quasi-cyclic codes studied so far are mainly limited to
+one generator (1-generator) QC codes. In this correspondence, 2-generator and
+3-generator QC codes are studied, and many good, new QC codes are constructed
+from simplex codes. Some new binary QC codes or related codes, that improve the
+bounds on maximum minimum distance for binary linear codes are constructed.
+They are 5-generator QC [93, 17, 34] and [254, 23, 102] codes, and related [96,
+17, 36], [256, 23, 104] codes.
+",http://arxiv.org/pdf/cs/0609006v2
+On homogeneous nontransitive binary perfect code,"  Studying binary perfect codes we show the existence of homogeneous
+nontransitive codes. Thus, as far as perfect codes are concerned, the
+propelinear codes are strictly contained in transitive codes, wheresas
+homogeneous codes form a strict subclass of transitive codes. In the work we
+deduce a necessary and sufficient condition for transitivity of perfect binary
+codes of rank one more than that of Hamming code. The paper is in Russian.
+",http://arxiv.org/pdf/1412.3006v1
+AI Coding: Learning to Construct Error Correction Codes,"  In this paper, we investigate an artificial-intelligence (AI) driven approach
+to design error correction codes (ECC). Classic error correction code was
+designed upon coding theory that typically defines code properties (e.g.,
+hamming distance, subchannel reliability, etc.) to reflect code performance.
+Its code design is to optimize code properties. However, an AI-driven approach
+doesn't necessarily rely on coding theory any longer. Specifically, we propose
+a constructor-evaluator framework, in which the code constructor is realized by
+AI algorithms and the code evaluator provides code performance metric
+measurements. The code constructor keeps improving the code construction to
+maximize code performance that is evaluated by the code evaluator. As examples,
+we construct linear block codes and polar codes with reinforcement learning
+(RL) and evolutionary algorithms. The results show that comparable code
+performance can be achieved with respect to the existing codes. It is
+noteworthy that our method can provide superior performances where existing
+classic constructions fail to achieve optimum for a specific decoder (e.g.,
+list decoding for polar codes).
+",http://arxiv.org/pdf/1901.05719v2
+A Review of Image Mosaicing Techniques,"  Image Mosaicing is a method of constructing multiple images of the same scene
+into a larger image. The output of the image mosaic will be the union of two
+input images. Image-mosaicing algorithms are used to get mosaiced image. Image
+Mosaicing processed is basically divided in to 5 phases. Which includes;
+Feature point extraction, Image registration, Homography computation, Warping
+and Blending if Image. Various corner detection algorithm is being used for
+Feature extraction. This corner produces an efficient and informative output
+mosaiced image. Image mosaicing is widely used in creating 3D images, medical
+imaging, computer vision, data from satellites, and military automatic target
+recognition.
+",http://arxiv.org/pdf/1405.2539v1
+"StegNet: Mega Image Steganography Capacity with Deep Convolutional
+  Network","  Traditional image steganography often leans interests towards safely
+embedding hidden information into cover images with payload capacity almost
+neglected. This paper combines recent deep convolutional neural network methods
+with image-into-image steganography. It successfully hides the same size images
+with a decoding rate of 98.2% or bpp (bits per pixel) of 23.57 by changing only
+0.76% of the cover image on average. Our method directly learns end-to-end
+mappings between the cover image and the embedded image and between the hidden
+image and the decoded image. We~further show that our embedded image, while
+with mega payload capacity, is still robust to statistical analysis.
+",http://arxiv.org/pdf/1806.06357v1
+Machine learning on images using a string-distance,"  We present a new method for image feature-extraction which is based on
+representing an image by a finite-dimensional vector of distances that measure
+how different the image is from a set of image prototypes. We use the recently
+introduced Universal Image Distance (UID) \cite{RatsabyChesterIEEE2012} to
+compare the similarity between an image and a prototype image. The advantage in
+using the UID is the fact that no domain knowledge nor any image analysis need
+to be done. Each image is represented by a finite dimensional feature vector
+whose components are the UID values between the image and a finite set of image
+prototypes from each of the feature categories. The method is automatic since
+once the user selects the prototype images, the feature vectors are
+automatically calculated without the need to do any image analysis. The
+prototype images can be of different size, in particular, different than the
+image size. Based on a collection of such cases any supervised or unsupervised
+learning algorithm can be used to train and produce an image classifier or
+image cluster analysis. In this paper we present the image feature-extraction
+method and use it on several supervised and unsupervised learning experiments
+for satellite image data.
+",http://arxiv.org/pdf/1305.4204v1
+Image Optimization and Prediction,"  Image Processing, Optimization and Prediction of an Image play a key role in
+Computer Science. Image processing provides a way to analyze and identify an
+image .Many areas like medical image processing, Satellite images, natural
+images and artificial images requires lots of analysis and research on
+optimization. In Image Optimization and Prediction we are combining the
+features of Query Optimization, Image Processing and Prediction . Image
+optimization is used in Pattern analysis, object recognition, in medical Image
+processing to predict the type of diseases, in satellite images for predicting
+weather forecast, availability of water or mineral etc. Image Processing,
+Optimization and analysis is a wide open area for research .Lots of research
+has been conducted in the area of Image analysis and many techniques are
+available for image analysis but, a single technique is not yet identified for
+image analysis and prediction .our research is focused on identifying a global
+technique for image analysis and Prediction.
+",http://arxiv.org/pdf/1305.2828v1
+Reduce Noise in Computed Tomography Image using Adaptive Gaussian Filter,"  One image processing application that is very helpful for humans is to
+improve image quality, poor image quality makes the image more difficult to
+interpret because the information conveyed by the image is reduced. In the
+process of the acquisition of medical images, the resulting image has decreased
+quality (degraded) due to external factors and medical equipment used. For this
+reason, it is necessary to have an image processing process to improve the
+quality of medical images, so that later it is expected to help facilitate
+medical personnel in analyzing and translating medical images, which will lead
+to an improvement in the quality of diagnosis. In this study, an analysis will
+be carried out to improve the quality of medical images with noise reduction
+with the Gaussian Filter Method. Next, it is carried out, and tested against
+medical images, in this case, the lung photo image. The test image is given
+noise in the form of impulse salt & pepper and adaptive Gaussian then analyzed
+its performance qualitatively by comparing the output filter image, noise
+image, and the original image by naked eye.
+",http://arxiv.org/pdf/1902.05985v1
+"On hybrid point sets stemming from Halton-type Hammersley point sets and
+  polynomial lattice point sets","  In this paper we consider finite hybrid point sets that are the digital
+analogs to finite hybrid point sets introduced by Kritzer. Kritzer considered
+hybrid point sets that are a combination of lattice point sets and Hammersley
+point sets constructed using the ring of integers and the field of rational
+numbers. In this paper we consider finite hybrid point sets whose components
+stem from Halton-type Hammersley Point sets and lattice point sets which are
+constructed using the arithmetic of the ring of polynomials and the field of
+rational functions over a finite field. We present existence results for such
+finite hybrid point sets with low discrepancy.
+",http://arxiv.org/pdf/1808.00706v1
+"A short note on the paper ""Remarks on Caristi's fixed point theorem and
+  Kirk's problem""","  In this paper, we demonstrate that Li's fixed point theorems are indeed
+equivalent with the primitive Caristi's fixed point theorem, Jachymski's fixed
+point theorems, Feng and Liu's fixed point theorems, Khamsi's fixed point
+theorems and others.
+",http://arxiv.org/pdf/1010.0923v1
+The Big-Line-Big-Clique Conjecture is False for Infinite Point Sets,"  The big-line-big-clique conjecture states that for all $k,\ell\geq2$ there is
+an integer $n$ such that every finite set of at least $n$ points in the plane
+contains $\ell$ collinear points or $k$ pairwise visible points. We show that
+this conjecture is false for infinite point sets, by constructing a countably
+infinite point set with no 4 collinear points and no 3 pairwise visible points.
+",http://arxiv.org/pdf/1008.2988v1
+"Fixed points, saddle points and universality","  It is pointed out that the universality might seriously be violated by models
+with several fixed points.
+",http://arxiv.org/pdf/hep-th/9411215v1
+"A Straightforward Preprocessing Approach for Accelerating Convex Hull
+  Computations on the GPU","  An effective strategy for accelerating the calculation of convex hulls for
+point sets is to filter the input points by discarding interior points. In this
+paper, we present such a straightforward and efficient preprocessing approach
+by exploiting the GPU. The basic idea behind our approach is to discard the
+points that locate inside a convex polygon formed by 16 extreme points. Due to
+the fact that the extreme points of a point set do not alter when all points
+are rotated in the same angle, four groups of extreme points with min or max x
+or y coordinates can be found in the original point set and three rotated point
+sets. These 16 extreme points are then used to form a convex polygon. We check
+all input points and discard the points that locate inside the convex polygon.
+We use the remaining points to calculate the expected convex hull. Experimental
+results show that: when employing the proposed preprocessing algorithm, it
+achieves the speedups of about 4x ~5x on average and 5x ~ 6x in the best cases
+over the cases where the proposed approach is not used. In addition, more than
+99% input points can be discarded in most experimental tests.
+",http://arxiv.org/pdf/1405.3454v2
+A Review of Image Mosaicing Techniques,"  Image Mosaicing is a method of constructing multiple images of the same scene
+into a larger image. The output of the image mosaic will be the union of two
+input images. Image-mosaicing algorithms are used to get mosaiced image. Image
+Mosaicing processed is basically divided in to 5 phases. Which includes;
+Feature point extraction, Image registration, Homography computation, Warping
+and Blending if Image. Various corner detection algorithm is being used for
+Feature extraction. This corner produces an efficient and informative output
+mosaiced image. Image mosaicing is widely used in creating 3D images, medical
+imaging, computer vision, data from satellites, and military automatic target
+recognition.
+",http://arxiv.org/pdf/1405.2539v1
+"StegNet: Mega Image Steganography Capacity with Deep Convolutional
+  Network","  Traditional image steganography often leans interests towards safely
+embedding hidden information into cover images with payload capacity almost
+neglected. This paper combines recent deep convolutional neural network methods
+with image-into-image steganography. It successfully hides the same size images
+with a decoding rate of 98.2% or bpp (bits per pixel) of 23.57 by changing only
+0.76% of the cover image on average. Our method directly learns end-to-end
+mappings between the cover image and the embedded image and between the hidden
+image and the decoded image. We~further show that our embedded image, while
+with mega payload capacity, is still robust to statistical analysis.
+",http://arxiv.org/pdf/1806.06357v1
+Machine learning on images using a string-distance,"  We present a new method for image feature-extraction which is based on
+representing an image by a finite-dimensional vector of distances that measure
+how different the image is from a set of image prototypes. We use the recently
+introduced Universal Image Distance (UID) \cite{RatsabyChesterIEEE2012} to
+compare the similarity between an image and a prototype image. The advantage in
+using the UID is the fact that no domain knowledge nor any image analysis need
+to be done. Each image is represented by a finite dimensional feature vector
+whose components are the UID values between the image and a finite set of image
+prototypes from each of the feature categories. The method is automatic since
+once the user selects the prototype images, the feature vectors are
+automatically calculated without the need to do any image analysis. The
+prototype images can be of different size, in particular, different than the
+image size. Based on a collection of such cases any supervised or unsupervised
+learning algorithm can be used to train and produce an image classifier or
+image cluster analysis. In this paper we present the image feature-extraction
+method and use it on several supervised and unsupervised learning experiments
+for satellite image data.
+",http://arxiv.org/pdf/1305.4204v1
+Image Optimization and Prediction,"  Image Processing, Optimization and Prediction of an Image play a key role in
+Computer Science. Image processing provides a way to analyze and identify an
+image .Many areas like medical image processing, Satellite images, natural
+images and artificial images requires lots of analysis and research on
+optimization. In Image Optimization and Prediction we are combining the
+features of Query Optimization, Image Processing and Prediction . Image
+optimization is used in Pattern analysis, object recognition, in medical Image
+processing to predict the type of diseases, in satellite images for predicting
+weather forecast, availability of water or mineral etc. Image Processing,
+Optimization and analysis is a wide open area for research .Lots of research
+has been conducted in the area of Image analysis and many techniques are
+available for image analysis but, a single technique is not yet identified for
+image analysis and prediction .our research is focused on identifying a global
+technique for image analysis and Prediction.
+",http://arxiv.org/pdf/1305.2828v1
+Reduce Noise in Computed Tomography Image using Adaptive Gaussian Filter,"  One image processing application that is very helpful for humans is to
+improve image quality, poor image quality makes the image more difficult to
+interpret because the information conveyed by the image is reduced. In the
+process of the acquisition of medical images, the resulting image has decreased
+quality (degraded) due to external factors and medical equipment used. For this
+reason, it is necessary to have an image processing process to improve the
+quality of medical images, so that later it is expected to help facilitate
+medical personnel in analyzing and translating medical images, which will lead
+to an improvement in the quality of diagnosis. In this study, an analysis will
+be carried out to improve the quality of medical images with noise reduction
+with the Gaussian Filter Method. Next, it is carried out, and tested against
+medical images, in this case, the lung photo image. The test image is given
+noise in the form of impulse salt & pepper and adaptive Gaussian then analyzed
+its performance qualitatively by comparing the output filter image, noise
+image, and the original image by naked eye.
+",http://arxiv.org/pdf/1902.05985v1
+StarMap for Category-Agnostic Keypoint and Viewpoint Estimation,"  Semantic keypoints provide concise abstractions for a variety of visual
+understanding tasks. Existing methods define semantic keypoints separately for
+each category with a fixed number of semantic labels in fixed indices. As a
+result, this keypoint representation is in-feasible when objects have a varying
+number of parts, e.g. chairs with varying number of legs. We propose a
+category-agnostic keypoint representation, which combines a multi-peak heatmap
+(StarMap) for all the keypoints and their corresponding features as 3D
+locations in the canonical viewpoint (CanViewFeature) defined for each
+instance. Our intuition is that the 3D locations of the keypoints in canonical
+object views contain rich semantic and compositional information. Using our
+flexible representation, we demonstrate competitive performance in keypoint
+detection and localization compared to category-specific state-of-the-art
+methods. Moreover, we show that when augmented with an additional depth channel
+(DepthMap) to lift the 2D keypoints to 3D, our representation can achieve
+state-of-the-art results in viewpoint estimation. Finally, we show that our
+category-agnostic keypoint representation can be generalized to novel
+categories.
+",http://arxiv.org/pdf/1803.09331v2
+Pose2Instance: Harnessing Keypoints for Person Instance Segmentation,"  Human keypoints are a well-studied representation of people.We explore how to
+use keypoint models to improve instance-level person segmentation. The main
+idea is to harness the notion of a distance transform of oracle provided
+keypoints or estimated keypoint heatmaps as a prior for person instance
+segmentation task within a deep neural network. For training and evaluation, we
+consider all those images from COCO where both instance segmentation and human
+keypoints annotations are available. We first show how oracle keypoints can
+boost the performance of existing human segmentation model during inference
+without any training. Next, we propose a framework to directly learn a deep
+instance segmentation model conditioned on human pose. Experimental results
+show that at various Intersection Over Union (IOU) thresholds, in a constrained
+environment with oracle keypoints, the instance segmentation accuracy achieves
+10% to 12% relative improvements over a strong baseline of oracle bounding
+boxes. In a more realistic environment, without the oracle keypoints, the
+proposed deep person instance segmentation model conditioned on human pose
+achieves 3.8% to 10.5% relative improvements comparing with its strongest
+baseline of a deep network trained only for segmentation.
+",http://arxiv.org/pdf/1704.01152v1
+Keypoint Transfer for Fast Whole-Body Segmentation,"  We introduce an approach for image segmentation based on sparse
+correspondences between keypoints in testing and training images. Keypoints
+represent automatically identified distinctive image locations, where each
+keypoint correspondence suggests a transformation between images. We use these
+correspondences to transfer label maps of entire organs from the training
+images to the test image. The keypoint transfer algorithm includes three steps:
+(i) keypoint matching, (ii) voting-based keypoint labeling, and (iii)
+keypoint-based probabilistic transfer of organ segmentations. We report
+segmentation results for abdominal organs in whole-body CT and MRI, as well as
+in contrast-enhanced CT and MRI. Our method offers a speed-up of about three
+orders of magnitude in comparison to common multi-atlas segmentation, while
+achieving an accuracy that compares favorably. Moreover, keypoint transfer does
+not require the registration to an atlas or a training phase. Finally, the
+method allows for the segmentation of scans with highly variable field-of-view.
+",http://arxiv.org/pdf/1806.08723v1
+"Unsupervised Keypoint Learning for Guiding Class-Conditional Video
+  Prediction","  We propose a deep video prediction model conditioned on a single image and an
+action class. To generate future frames, we first detect keypoints of a moving
+object and predict future motion as a sequence of keypoints. The input image is
+then translated following the predicted keypoints sequence to compose future
+frames. Detecting the keypoints is central to our algorithm, and our method is
+trained to detect the keypoints of arbitrary objects in an unsupervised manner.
+Moreover, the detected keypoints of the original videos are used as
+pseudo-labels to learn the motion of objects. Experimental results show that
+our method is successfully applied to various datasets without the cost of
+labeling keypoints in videos. The detected keypoints are similar to
+human-annotated labels, and prediction results are more realistic compared to
+the previous methods.
+",http://arxiv.org/pdf/1910.02027v1
+Neural Outlier Rejection for Self-Supervised Keypoint Learning,"  Identifying salient points in images is a crucial component for visual
+odometry, Structure-from-Motion or SLAM algorithms. Recently, several learned
+keypoint methods have demonstrated compelling performance on challenging
+benchmarks. However, generating consistent and accurate training data for
+interest-point detection in natural images still remains challenging,
+especially for human annotators. We introduce IO-Net (i.e. InlierOutlierNet), a
+novel proxy task for the self-supervision of keypoint detection, description
+and matching. By making the sampling of inlier-outlier sets from point-pair
+correspondences fully differentiable within the keypoint learning framework, we
+show that are able to simultaneously self-supervise keypoint description and
+improve keypoint matching. Second, we introduce KeyPointNet, a keypoint-network
+architecture that is especially amenable to robust keypoint detection and
+description. We design the network to allow local keypoint aggregation to avoid
+artifacts due to spatial discretizations commonly used for this task, and we
+improve fine-grained keypoint descriptor performance by taking advantage of
+efficient sub-pixel convolutions to upsample the descriptor feature-maps to a
+higher operating resolution. Through extensive experiments and ablative
+analysis, we show that the proposed self-supervised keypoint learning method
+greatly improves the quality of feature matching and homography estimation on
+challenging benchmarks over the state-of-the-art.
+",http://arxiv.org/pdf/1912.10615v1
+"LiDAR-Flow: Dense Scene Flow Estimation from Sparse LiDAR and Stereo
+  Images","  We propose a new approach called LiDAR-Flow to robustly estimate a dense
+scene flow by fusing a sparse LiDAR with stereo images. We take the advantage
+of the high accuracy of LiDAR to resolve the lack of information in some
+regions of stereo images due to textureless objects, shadows, ill-conditioned
+light environment and many more. Additionally, this fusion can overcome the
+difficulty of matching unstructured 3D points between LiDAR-only scans. Our
+LiDAR-Flow approach consists of three main steps; each of them exploits LiDAR
+measurements. First, we build strong seeds from LiDAR to enhance the robustness
+of matches between stereo images. The imagery part seeks the motion matches and
+increases the density of scene flow estimation. Then, a consistency check
+employs LiDAR seeds to remove the possible mismatches. Finally, LiDAR
+measurements constraint the edge-preserving interpolation method to fill the
+remaining gaps. In our evaluation we investigate the individual processing
+steps of our LiDAR-Flow approach and demonstrate the superior performance
+compared to image-only approach.
+",http://arxiv.org/pdf/1910.14453v2
+Characterization of a RS-LiDAR for 3D Perception,"  High precision 3D LiDARs are still expensive and hard to acquire. This paper
+presents the characteristics of RS-LiDAR, a model of low-cost LiDAR with
+sufficient supplies, in comparison with VLP-16. The paper also provides a set
+of evaluations to analyze the characterizations and performances of LiDARs
+sensors. This work analyzes multiple properties, such as drift effects,
+distance effects, color effects and sensor orientation effects, in the context
+of 3D perception. By comparing with Velodyne LiDAR, we found RS-LiDAR as a
+cheaper and acquirable substitute of VLP-16 with similar efficiency.
+",http://arxiv.org/pdf/1709.07641v1
+Progressive LiDAR Adaptation for Road Detection,"  Despite rapid developments in visual image-based road detection, robustly
+identifying road areas in visual images remains challenging due to issues like
+illumination changes and blurry images. To this end, LiDAR sensor data can be
+incorporated to improve the visual image-based road detection, because LiDAR
+data is less susceptible to visual noises. However, the main difficulty in
+introducing LiDAR information into visual image-based road detection is that
+LiDAR data and its extracted features do not share the same space with the
+visual data and visual features. Such gaps in spaces may limit the benefits of
+LiDAR information for road detection. To overcome this issue, we introduce a
+novel Progressive LiDAR Adaptation-aided Road Detection (PLARD) approach to
+adapt LiDAR information into visual image-based road detection and improve
+detection performance. In PLARD, progressive LiDAR adaptation consists of two
+subsequent modules: 1) data space adaptation, which transforms the LiDAR data
+to the visual data space to align with the perspective view by applying
+altitude difference-based transformation; and 2) feature space adaptation,
+which adapts LiDAR features to visual features through a cascaded fusion
+structure. Comprehensive empirical studies on the well-known KITTI road
+detection benchmark demonstrate that PLARD takes advantage of both the visual
+and LiDAR information, achieving much more robust road detection even in
+challenging urban scenes. In particular, PLARD outperforms other
+state-of-the-art road detection models and is currently top of the publicly
+accessible benchmark leader-board.
+",http://arxiv.org/pdf/1904.01206v1
+An Optimal LiDAR Configuration Approach for Self-Driving Cars,"  LiDARs plays an important role in self-driving cars and its configuration
+such as the location placement for each LiDAR can influence object detection
+performance. This paper aims to investigate an optimal configuration that
+maximizes the utility of on-hand LiDARs. First, a perception model of LiDAR is
+built based on its physical attributes. Then a generalized optimization model
+is developed to find the optimal configuration, including the pitch angle, roll
+angle, and position of LiDARs. In order to fix the optimization issue with
+off-the-shelf solvers, we proposed a lattice-based approach by segmenting the
+LiDAR's range of interest into finite subspaces, thus turning the optimal
+configuration into a nonlinear optimization problem. A cylinder-based method is
+also proposed to approximate the objective function, thereby making the
+nonlinear optimization problem solvable. A series of simulations are conducted
+to validate our proposed method. This proposed approach to optimal LiDAR
+configuration can provide a guideline to researchers to maximize the utility of
+LiDARs.
+",http://arxiv.org/pdf/1805.07843v1
+"LiSBOA: LiDAR Statistical Barnes Objective Analysis for optimal design
+  of LiDAR scans and retrieval of wind statistics. Part I: Theoretical
+  framework","  A LiDAR Statistical Barnes Objective Analysis (LiSBOA) for optimal design of
+LiDAR scans and retrieval of the velocity statistical moments is proposed. The
+LiSBOA represents an adaptation of the classical Barnes scheme for the
+statistical analysis of unstructured experimental data in N-dimensional spaces
+and it is a suitable technique for the evaluation over a structured Cartesian
+grid of the statistics of scalar fields sampled through scanning LiDARs. The
+LiSBOA is validated and characterized via a Monte Carlo approach applied to a
+synthetic velocity field. This revisited theoretical framework for the Barnes
+objective analysis enables the formulation of guidelines for optimal design of
+LiDAR experiments and efficient application of the LiSBOA for the
+post-processing of LiDAR measurements. The optimal design of LiDAR scans is
+formulated as a two cost-function optimization problem including the
+minimization of the percentage of the measurement volume not sampled with
+adequate spatial resolution and the minimization of the error on the mean of
+the velocity field. The optimal design of the LiDAR scans also guides the
+selection of the smoothing parameter and the total number of iterations to use
+for the Barnes scheme.
+",http://arxiv.org/pdf/2005.06078v1
+"On hybrid point sets stemming from Halton-type Hammersley point sets and
+  polynomial lattice point sets","  In this paper we consider finite hybrid point sets that are the digital
+analogs to finite hybrid point sets introduced by Kritzer. Kritzer considered
+hybrid point sets that are a combination of lattice point sets and Hammersley
+point sets constructed using the ring of integers and the field of rational
+numbers. In this paper we consider finite hybrid point sets whose components
+stem from Halton-type Hammersley Point sets and lattice point sets which are
+constructed using the arithmetic of the ring of polynomials and the field of
+rational functions over a finite field. We present existence results for such
+finite hybrid point sets with low discrepancy.
+",http://arxiv.org/pdf/1808.00706v1
+"A short note on the paper ""Remarks on Caristi's fixed point theorem and
+  Kirk's problem""","  In this paper, we demonstrate that Li's fixed point theorems are indeed
+equivalent with the primitive Caristi's fixed point theorem, Jachymski's fixed
+point theorems, Feng and Liu's fixed point theorems, Khamsi's fixed point
+theorems and others.
+",http://arxiv.org/pdf/1010.0923v1
+The Big-Line-Big-Clique Conjecture is False for Infinite Point Sets,"  The big-line-big-clique conjecture states that for all $k,\ell\geq2$ there is
+an integer $n$ such that every finite set of at least $n$ points in the plane
+contains $\ell$ collinear points or $k$ pairwise visible points. We show that
+this conjecture is false for infinite point sets, by constructing a countably
+infinite point set with no 4 collinear points and no 3 pairwise visible points.
+",http://arxiv.org/pdf/1008.2988v1
+"Fixed points, saddle points and universality","  It is pointed out that the universality might seriously be violated by models
+with several fixed points.
+",http://arxiv.org/pdf/hep-th/9411215v1
+"A Straightforward Preprocessing Approach for Accelerating Convex Hull
+  Computations on the GPU","  An effective strategy for accelerating the calculation of convex hulls for
+point sets is to filter the input points by discarding interior points. In this
+paper, we present such a straightforward and efficient preprocessing approach
+by exploiting the GPU. The basic idea behind our approach is to discard the
+points that locate inside a convex polygon formed by 16 extreme points. Due to
+the fact that the extreme points of a point set do not alter when all points
+are rotated in the same angle, four groups of extreme points with min or max x
+or y coordinates can be found in the original point set and three rotated point
+sets. These 16 extreme points are then used to form a convex polygon. We check
+all input points and discard the points that locate inside the convex polygon.
+We use the remaining points to calculate the expected convex hull. Experimental
+results show that: when employing the proposed preprocessing algorithm, it
+achieves the speedups of about 4x ~5x on average and 5x ~ 6x in the best cases
+over the cases where the proposed approach is not used. In addition, more than
+99% input points can be discarded in most experimental tests.
+",http://arxiv.org/pdf/1405.3454v2
+Deep Visual Odometry Methods for Mobile Robots,"  Technology has made navigation in 3D real time possible and this has made
+possible what seemed impossible. This paper explores the aspect of deep visual
+odometry methods for mobile robots. Visual odometry has been instrumental in
+making this navigation successful. Noticeable challenges in mobile robots
+including the inability to attain Simultaneous Localization and Mapping have
+been solved by visual odometry through its cameras which are suitable for human
+environments. More intuitive, precise and accurate detection have been made
+possible by visual odometry in mobile robots. Another challenge in the mobile
+robot world is the 3D map reconstruction for exploration. A dense map in mobile
+robots can facilitate for localization and more accurate findings.
+",http://arxiv.org/pdf/1807.11745v1
+DSVO: Direct Stereo Visual Odometry,"  This paper proposes a novel approach to stereo visual odometry without stereo
+matching. It is particularly robust in scenes of repetitive high-frequency
+textures. Referred to as DSVO (Direct Stereo Visual Odometry), it operates
+directly on pixel intensities, without any explicit feature matching, and is
+thus efficient and more accurate than the state-of-the-art
+stereo-matching-based methods. It applies a semi-direct monocular visual
+odometry running on one camera of the stereo pair, tracking the camera pose and
+mapping the environment simultaneously; the other camera is used to optimize
+the scale of monocular visual odometry. We evaluate DSVO in a number of
+challenging scenes to evaluate its performance and present comparisons with the
+state-of-the-art stereo visual odometry algorithms.
+",http://arxiv.org/pdf/1810.03963v2
+Stereo-based Multi-motion Visual Odometry for Mobile Robots,"  With the development of computer vision, visual odometry is adopted by more
+and more mobile robots. However, we found that not only its own pose, but the
+poses of other moving objects are also crucial for the decision of the robot.
+In addition, the visual odometry will be greatly disturbed when a significant
+moving object appears. In this letter, a stereo-based multi-motion visual
+odometry method is proposed to acquire the poses of the robot and other moving
+objects. In order to obtain the poses simultaneously, a continuous motion
+segmentation module and a coordinate conversion module are applied to the
+traditional visual odometry pipeline. As a result, poses of all moving objects
+can be acquired and transformed into the ground coordinate system. The
+experimental results show that the proposed multi-motion visual odometry can
+effectively eliminate the influence of moving objects on the visual odometry,
+as well as achieve 10 cm in position and 3{\deg} in orientation RMSE (Root Mean
+Square Error) of each moving object.
+",http://arxiv.org/pdf/1910.06607v1
+Joint Forward-Backward Visual Odometry for Stereo Cameras,"  Visual odometry is a widely used technique in the field of robotics and
+automation to keep a track on the location of a robot using visual cues alone.
+In this paper, we propose a joint forward backward visual odometry framework by
+combining both, the forward motion and backward motion estimated from stereo
+cameras. The basic framework of LIBVIOS2 is used here for pose estimation as it
+can run in real-time on standard CPUs. The complementary nature of errors in
+the forward and backward mode of visual odometry helps in providing a refined
+motion estimation upon combining these individual estimates. In addition, two
+reliability measures, that is, forward-backward relative pose error and
+forward-backward absolute pose error have been proposed for evaluating visual
+odometry frameworks on its own without the requirement of any ground truth
+data. The proposed scheme is evaluated on the KITTI visual odometry dataset.
+The experimental results demonstrate improved accuracy of the proposed scheme
+over the traditional odometry pipeline without much increase in the system
+overload.
+",http://arxiv.org/pdf/1912.10293v1
+MOMA: Visual Mobile Marker Odometry,"  In this paper, we present a cooperative odometry scheme based on the
+detection of mobile markers in line with the idea of cooperative positioning
+for multiple robots [1]. To this end, we introduce a simple optimization scheme
+that realizes visual mobile marker odometry via accurate fixed marker-based
+camera positioning and analyse the characteristics of errors inherent to the
+method compared to classical fixed marker-based navigation and visual odometry.
+In addition, we provide a specific UAV-UGV configuration that allows for
+continuous movements of the UAV without doing stops and a minimal
+caterpillar-like configuration that works with one UGV alone. Finally, we
+present a real-world implementation and evaluation for the proposed UAV-UGV
+configuration.
+",http://arxiv.org/pdf/1704.02222v2
+"Performance comparison of IEEE 802.11g and IEEE 802.11n in the presence
+  of interference from 802.15.4 networks","  In this paper we compare the packet error rate (PER) and maximum throughput
+of IEEE 802.11n and IEEE 802.11g under interference from IEEE 802.15.4 by using
+MATLAB to simulate the IEEE PHY for 802.11n and 802.11g networks.
+",http://arxiv.org/pdf/1308.0678v1
+"Scheduling strategies and throughput optimization for the Downlink for
+  IEEE 802.11ax and IEEE 802.11ac based networks","  The new IEEE 802.11 standard, IEEE 802.11ax, has the challenging goal of
+serving more users compared to its predecessor IEEE 802.11ac, enabling
+consistent and reliable streams of data (average throughput) per station. In
+this paper we explore some of the IEEE 802.11ax new mechanisms and compare
+between the upper bounds on the throughputs of the Downlink unidirectional UDP
+Multi Users (MU) triadic based on Multiple-Input-Multiple-Output (MU-MIMO) and
+Orthogonal Frequency Division Multiple Access (OFDMA) transmission multiplexing
+format in IEEE 802.11ax vs. IEEE 802.11ac in the Single User (SU) and MU modes
+for 1, 4, 8, 16, 32 and 64 stations scenario in reliable and unreliable
+channels. The comparison is made as a function of the Modulation and Coding
+Schemes (MCS) in use. In IEEE 802.11ax we consider two flavors of
+acknowledgment operation settings where the maximum acknowledgment windows are
+64 or 256 respectively. In SU scenario IEEE 802.11ax upper bounds on the
+throughputs outperform IEEE 802.11ac by about 52% and 74% in reliable and
+unreliable channels respectively. In MU-MIMO scenario IEEE 802.11ax upper
+bounds on the throughputs outperform IEEE 802.11ac by about 59% and 103% in
+reliable and unreliable channels respectively. Also, as the number of stations
+increases, the advantage of IEEE 802.11ax in terms of the access delay also
+increases.
+",http://arxiv.org/pdf/1709.04818v1
+"Scheduling strategies and throughput optimization for the Uplink for
+  IEEE 802.11ax and IEEE 802.11ac based networks","  The new IEEE 802.11 standard, IEEE 802.11ax, has the challenging goal of
+serving more Uplink (UL) traffic and users as compared with his predecessor
+IEEE 802.11ac, en- abling consistent and reliable streams of data (average
+throughput) per station. In this paper we explore several new IEEE 802.11ax UL
+scheduling mechanisms and compare between the maximum throughputs of
+unidirectional UDP Multi Users (MU) triadic. The evaluation is conducted based
+on Multiple-Input-Multiple-Output (MIMO) and Orthogonal Frequency Division
+Multiple Acceess (OFDMA) transmission multiplexing format in IEEE 802.11ax vs.
+the CSMA/CA MAC in IEEE 802.11ac in the Single User (SU) and MU modes for 1, 4,
+8, 16, 32 and 64 stations scenario in reliable and unreliable channels. The
+comparison is conducted as a function of the Modulation and Coding Schemes
+(MCS) in use. In IEEE 802.11ax we consider two new flavors of ac- knowledgment
+operation settings, where the maximum acknowledgment windows are 64 or 256
+respectively. In SU scenario IEEE 802.11ax throughputs outperform IEEE 802.11ac
+by about 64% and 85% in reliable and unreliable channels respectively. In
+MU-MIMO scenario IEEE 802.11ax throughputs outperform IEEE 802.11ac by up to
+263% and 270% in reliable and unreliable channels respectively. Also, as the
+number of stations increases, the advantage of IEEE 802.11ax in terms of the
+access delay also increases.
+",http://arxiv.org/pdf/1803.10657v1
+Throughput Limits of IEEE 802.11 and IEEE 802.15.3,"  IEEE 802.11 and IEEE 802.15.3 are wireless standards originally designed for
+wireless local area network (WLAN) and wireless personal area network (WPAN).
+This paper studies MAC throughput analysis of both standards. We present a
+comparative analysis of both standards in terms of MAC throughput and bandwidth
+efficiency. Numerical results show that the performance of IEEE 802.15.3
+transcends IEEE 802.11 in all cases.
+",http://arxiv.org/pdf/0911.1504v1
+IEEE 802.11ay based mmWave WLANs: Design Challenges and Solutions,"  Millimeter-wave (mmWave) with large spectrum available is considered as the
+most promising frequency band for future wireless communications. The IEEE
+802.11ad and IEEE 802.11ay operating on 60 GHz mmWave are the two most expected
+wireless local area network (WLAN) technologies for ultra-high-speed
+communications. For the IEEE 802.11ay standard still under development, there
+are plenty of proposals from companies and researchers who are involved with
+the IEEE 802.11ay task group. In this survey, we conduct a comprehensive review
+on the medium access control layer (MAC) related issues for the IEEE 802.11ay,
+some cross-layer between physical layer (PHY) and MAC technologies are also
+included. We start with MAC related technologies in the IEEE 802.11ad and
+discuss design challenges on mmWave communications, leading to some MAC related
+technologies for the IEEE 802.11ay. We then elaborate on important design
+issues for IEEE 802.11ay. Specifically, we review the channel bonding and
+aggregation for the IEEE 802.11ay, and point out the major differences between
+the two technologies. Then, we describe channel access and channel allocation
+in the IEEE 802.11ay, including spatial sharing and interference mitigation
+technologies. After that, we present an in-depth survey on beamforming training
+(BFT), beam tracking, single-user multiple-input-multiple-output (SU-MIMO)
+beamforming and multi-user multiple-input-multiple-output (MU-MIMO)
+beamforming. Finally, we discuss some open design issues and future research
+directions for mmWave WLANs. We hope that this paper provides a good
+introduction to this exciting research area for future wireless systems.
+",http://arxiv.org/pdf/1803.07808v1
+Locally Compact Contractive Local Groups,"  We study locally compact contractive local groups, that is, locally compact
+local groups with a contractive pseudo-automorphism. We prove that if such an
+object is locally connected, then it is locally isomorphic to a Lie group. We
+also prove a related structure theorem for locally compact contractive local
+groups which are not necessarily locally connected. These results are local
+analogues of theorems for locally compact contractive groups.
+",http://arxiv.org/pdf/0909.4565v2
+"Local units versus local projectivity. Dualisations: Corings with local
+  structure maps","  We unify and generalize different notions of local units and local
+projectivity. We investigate the connection between these properties by
+constructing elementary algebras from locally projective modules. Dual versions
+of these constructions are discussed, leading to corings with local
+comultiplications, corings with local counits and rings with local
+multiplications.
+",http://arxiv.org/pdf/math/0409182v2
+Globalizing locally compact local groups,"  Every locally compact local group is locally isomorphic to a topological
+group.
+",http://arxiv.org/pdf/1003.0963v1
+Local Codes with Cooperative Repair in Distributed Storage System,"  Recently, the research on local repair codes is mainly confined to repair the
+failed nodes within each repair group. But if the extreme cases occur that the
+entire repair group has failed, the local code stored in the failed group need
+to be recovered as a whole. In this paper, local codes with cooperative repair,
+in which the local codes are constructed based on minimum storage regeneration
+(MSR) codes, is proposed to achieve repairing the failed groups. Specifically,
+the proposed local codes with cooperative repair construct a kind of mutual
+interleaving structure among the parity symbols, that the parity symbols of
+each local code, named as distributed local parity, can be generated by the
+parity symbols of the MSR codes in its two adjacent local codes. Taking
+advantage of the structure given, the failed local groups can be repaired
+cooperatively by their adjacent local groups with lower repair locality, and
+meanwhile the minimum distance of local codes with cooperative repair is
+derived. Theoretical analysis and simulation experiments show that, compared
+with codes with local regeneration (such as MSR-local codes and MBR-local
+codes), the proposed local codes with cooperative repair have benefits in
+bandwidth overhead and repair locality for the case of local groups failure.
+",http://arxiv.org/pdf/1602.03084v1
+A unified approach to formal local cohomology and local Tate cohomology,"  Let R be a commutative Noetherian ring. We introduce a theory of formal local
+cohomology for complexes of R-modules. As an application, we establish some
+relations between formal local cohomology, local homology, local cohomology and
+local Tate cohomology through some natural isomorphisms. We investigate
+vanishing of formal local cohomology modules. Also, we give a characterization
+of Cohen-Macaulay complexes.
+",http://arxiv.org/pdf/1111.6786v1

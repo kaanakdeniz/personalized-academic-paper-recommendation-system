@@ -1,0 +1,66 @@
+{% extends 'base/base.html' %} {% load static %} {% block head %}
+<link rel="stylesheet" href="{% static 'css/fontawesome.css' %}" />
+<link rel="stylesheet" href="{% static 'css/dashboard.css' %}" />
+<link rel="stylesheet" href="{% static 'css/login-reg.css' %}" />
+{% endblock %} {% block content %}
+<body class="bg-gradient-success">
+  <a class="back" href="{% url 'main' %}"><i class="ml-2 mr-2 fas fa-arrow-left text-green-800"></i>Home</a>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-5 col-lg-12 col-md-9">
+        <div class="card o-hidden border-0 shadow-lg my-5">
+          <div class="card-body p-0">
+            <!-- Nested Row within Card Body -->
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="p-5">
+                  <div class="text-center">
+                    <h1 class="h3 text-green-900 mb-4 font-weight-bold">Create Account</h1>
+                    {% for field, errors in form.errors.items %} {% for error in errors %}
+                    <div class="alert alert-warning text-danger small" role="alert">{{ error }}</div>
+                    {% endfor %} {% endfor %}
+                  </div>
+                  <form class="user" action="" method="POST">
+                    {% csrf_token %}
+                    <div class="form-group">
+                      {{ form.username }}
+                    </div>
+                    <div class="form-group row">
+                      <div class="col-sm-6 mb-3 mb-sm-0">{{ form.first_name }}</div>
+                      <div class="col-sm-6">{{ form.last_name }}</div>
+                    </div>
+                    <div class="form-group">{{ form.email }}</div>
+                    <div class="form-group row">
+                      <div class="col-sm-6 mb-3 mb-sm-0">
+                        <div class="form-group">{{ form.password1 }}</div>
+                      </div>
+                      <div class="col-sm-6">
+                        <div class="form-group">{{ form.password2 }}</div>
+                      </div>
+                    </div>
+                    <input type="submit" class="btn btn-success btn-user btn-block" value="Sign Up" />
+                  </form>
+
+                  <hr />
+                  <div class="text-center">
+                    <a class="small" href="{% url 'login' %}">Have an account? Login!</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Bootstrap core JavaScript-->
+  <script src="{% static 'vendor/jquery.min.js' %}"></script>
+  <script src="{% static 'vendor/bootstrap.bundle.min.js' %}"></script>
+
+  <!-- Core plugin JavaScript-->
+  <script src="{% static 'vendor/jquery.easing.min.js' %}"></script>
+
+  <!-- Custom scripts for all pages-->
+  <script src="{% static 'vendor/sb-admin-2.min.js' %}"></script>
+</body>
+{% endblock %}

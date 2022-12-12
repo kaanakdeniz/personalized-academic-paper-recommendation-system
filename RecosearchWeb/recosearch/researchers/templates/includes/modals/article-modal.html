@@ -1,0 +1,58 @@
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+    aria-hidden="true">
+    <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Add New Article</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <form onsubmit="loadBar()" class="add-group" method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <label for="">{{form.title.label}}:</label>
+                        {{form.title}}
+                        <div class="ml-1 form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+                            <label class="form-check-label small" for="defaultCheck1">
+                                Take name from filename
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="">{{form.file.label}}:</label>
+
+                        <label class="btn btn-primary form-control-file">
+                            <i class="fa fa-file mr-2"></i>Select Article{{form.file}}
+                        </label>
+                        <p class="small" id='filename'></p>
+                    </div>
+            </div>
+            <div class="modal-footer">
+                <input type="submit" class="btn btn-success" value="Add"></input>
+
+            </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<script>
+var f = document.getElementById('id_file')
+var title = document.getElementById('id_title')
+f.onchange = function (e) {
+    var a = f.value.split(/(\\|\/)/g).pop()
+    a = a.replace('.pdf', '')
+    var filename = document.getElementById('filename')
+    var chkbox = document.getElementById("defaultCheck1")
+    filename.innerText = a;
+    if (chkbox.checked) {
+        title.value = a
+    }
+};
+</script>

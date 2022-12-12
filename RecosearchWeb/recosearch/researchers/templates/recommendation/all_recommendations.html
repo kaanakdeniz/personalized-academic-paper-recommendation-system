@@ -1,0 +1,14 @@
+{% extends 'base/dashbase.html' %} {% block content %}
+<div class="mr-2 ml-1 mb-4 row d-flex justify-content-around">
+    <h1 class=" h3 mb-0 text-gray-800">Recommendations</h1>
+</div>
+
+{% include 'includes/filter.html' with page="recommendations" %}
+
+<div class="card shadow bg-light">
+    {% include 'includes/table.html' %}
+</div>
+
+{% include 'includes/loadbar.html' with text="Recommendations are updating.." txt="Article analyzing.."  %}
+
+{% endblock %}

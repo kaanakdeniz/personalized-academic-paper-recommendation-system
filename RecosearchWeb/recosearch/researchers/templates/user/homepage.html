@@ -1,0 +1,25 @@
+{% extends 'base/base.html' %} {% load static %} {% block head %}
+<link rel="stylesheet" href="{% static 'css/homepage.css' %}" />
+{% endblock %} {% block content %}
+
+<body>
+  <div class="container">
+    <nav class="d-flex justify-content-between align-items-center">
+      <h1 class="brand font-weight-bold">recØsearch</h1>
+      <div class="nav-content d-flex align-items-center">
+        <a class="btn-1" href="{% url 'register' %}">Sign Up</a>
+        <a class="btn-2" href="{% url 'login' %}">Login</a>
+      </div>
+    </nav>
+    <main class="row">
+      <div class="col-md-5 main-left d-flex flex-column justify-content-center">
+        <h2>Don't waste your time!</h2>
+        <h3 class="first">We analyze your articles and give you better recommendations.</h3>
+        <h3 class="second">You can show your articles extracted keywords and similarity scores with recommended articles.</h3>
+      </div>
+      <div class="main-image col-md-7"><img class="img-fluid" src="{% static 'imgs/landing-image.jpg' %}" alt="" /></div>
+    </main>
+  </div>
+</body>
+
+{% endblock %}

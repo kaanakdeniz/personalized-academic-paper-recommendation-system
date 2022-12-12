@@ -1,0 +1,90 @@
+{% extends 'base/dashbase.html' %}
+{% load extra_tags %}
+{% block content %}
+
+<div class="mr-2 ml-1 mb-4 row d-flex justify-content-between align-items-center">
+    <a class="back" href="javascript:history.back()"><i
+            class="ml-2 mr-2 fas fa-arrow-circle-left text-green-900"></i>Back</a>
+    <h5 id="title" class="mb-0 text-gray-800">{{article.title}}</h5>
+
+
+    <div class="div">
+        <a onclick="loadBar()" id="analyze" class="btn btn-primary" href="{% url 'related-analyze' article.id %}"><i
+                class="fas fa-book-reader mr-2"></i>Analyze</a>
+        <a class="btn btn-warning bg-gradient-warning shadow" target="_blank" href="{{article.pdf_link}}"><i
+                class="far fa-file-pdf mr-2"></i>PDF</a>
+        <a class="btn btn-danger" href="{% url 'related-delete' article.id%}"><i
+                class="fas fa-eraser mr-2"></i>Delete</a>
+    </div>
+</div>
+
+    <div class="card  shadow mb-2" style="color:rgba(0, 0, 0, 0.8); ">
+        <div class="card-header bg-gradient-warning ">
+        </div>
+        <div class="card-body">
+
+
+            <div class="score d-flex justify-content-between">
+                <h5> Similarity Score:{% if article.similarity_score %}
+                    {{ article.similarity_score|renderScore }}{% else %} - {% endif %}</h5>
+                
+
+                <h5>Published Date: {{article.published_date | date:"d M Y"}}</h5>
+            </div>
+
+            <div class="authors d-flex align-items-center">
+                <p>Authors: </p>
+                {% for author in article.authors %}
+                <p class="d-inline-block ml-2">{{author}},</p>
+
+                {% endfor %}
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+    <div class="card shadow">
+        <div class="card-header bg-gradient-warning text-white d-flex justify-content-between align-items-center">
+            <div>Summary</div>
+            <button id="download-sum" class="btn btn-warning bg-gradient-light text-black-50"><i
+                    class="fas fa-file-download mr-2"></i>Download Summary</button>
+        </div>
+        <div class="card-body">
+            <p id="article-summary">{{article.summary}}</p>
+        </div>
+    </div>
+    {% if article.text %}
+    <div class="card shadow mt-3">
+        <div class="card-header bg-gradient-warning text-white d-flex justify-content-between align-items-center">
+            <div>Processed Text</div>
+            <button id="download" class="btn btn-warning bg-gradient-light text-black-50"><i
+                    class="fas fa-file-download mr-2"></i>Download Full Text</button>
+        </div>
+        <div class="card-body">
+            <p id="article-text">{{article.text}}</p>
+        </div>
+    </div>
+    {% endif %}
+    {% if article.keywords %}
+    <div class="card shadow text-white mt-3">
+        <div class="card-header bg-gradient-warning">Extracted Keywords</div>
+        <div class="card-body d-flex flex-wrap align-items-center justify-content-around">
+            {% for keyword in article.keywords %}
+
+            <div class="card shadow text-white bg-gradient-info" style="border-radius: 50px;">
+                <div class="card-body" h-25" style="padding: 5px 10px;"">
+          <p style=" margin: 0;">{{keyword}}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    {% include 'includes/loadbar.html' with text="Article downloading and analyzing.." only %}
+
+
+    {% endblock %}

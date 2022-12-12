@@ -1,0 +1,143 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>recØsearch</title>
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/fontawesome.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/dashboard.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/custom.css' %}" />
+</head>
+
+
+<body id="page-top">
+    <div id="wrapper">
+        {% include 'includes/sidebar.html' %}
+        <div id="content-wrapper" class="d-flex flex-column">
+            <div id="content">
+                {% include 'includes/navbar.html' %}
+                <div class="container-fluid d-flex flex-column">
+                    {% for message in messages %}
+                    <div class="alert alert-{{ message.tags }} mt-4" role="alert">
+                        {{message}}
+                    </div>
+                    {% endfor %}
+                    {% block content %} {% endblock %}
+
+                </div>
+            </div>
+        </div>
+
+
+        <script src="{% static 'js/custom.js' %}"></script>
+        <script src="{% static 'vendor/jquery.min.js' %}"></script>
+        <script src="{% static 'vendor/bootstrap.bundle.min.js' %}"></script>
+
+        <!-- Core plugin JavaScript-->
+        <script src="{% static 'vendor/jquery.easing.min.js' %}"></script>
+
+        <!-- Custom scripts for all pages-->
+        <script src="{% static 'vendor/sb-admin-2.min.js' %}"></script>
+
+        <!-- Page level plugins -->        
+        <script src="{% static 'vendor/Chart.min.js' %}"></script>
+        <script src="{% static 'vendor/palette.js' %}"></script>
+        <!-- Page level custom scripts -->
+
+        
+<script>
+
+new Chart(document.getElementById("bar-chart"), {
+    type: 'bar',
+    data: {
+      labels: {{labels2|safe}},
+      datasets: [
+        {
+        backgroundColor: palette(['tol', 'qualitative'], {{data2|length}}).map(function(hex) {
+          return '#' + hex;
+        }),
+          data: {{data2|safe}},
+        },
+      ]
+    },
+    options: {
+        scales: {
+        yAxes: [{ gridLines: {
+                display:false
+            },ticks: {fontSize: 12, fontFamily: "'Karla', sans-serif", fontColor: '#000', fontStyle: '500', min:0}}],
+        xAxes: [{gridLines: {
+                display:false
+            },ticks: {fontSize: 12, fontFamily: "'Karla', sans-serif", fontColor: '#000', fontStyle: '500', min:0}}]
+        },
+      legend: { display: false,
+        },
+        tooltips: {
+        backgroundColor: "white",
+        bodyFontColor: "black",
+        borderColor: '#dddfeb',
+        borderWidth: 1,
+        titleFontFamily: "Karla",
+        titleFontColor: "black",
+        titleFontStyle: "normal",
+        bodyFontFamily: "Karla",
+        xPadding: 15,
+        yPadding: 15,
+        displayColors: true,
+        // caretPadding: 10,
+      },
+
+    }
+});
+
+
+    var ctx = document.getElementById("pie-chart").getContext("2d");
+  
+    var myPieChart = new Chart(ctx, {
+    type: 'pie',
+    data: {
+        datasets: [{
+          data: {{ data1|safe }},
+          backgroundColor: palette('tol', {{data2|length}}).map(function(hex) {
+          return '#' + hex;
+        }),
+  
+          
+        }],
+        labels: {{ labels1|safe }}
+      },
+    options: {
+      legend: {
+          position: 'bottom',
+          labels: {
+              fontStyle: "normal",
+            fontFamily: 'Karla',
+              fontColor: "black",
+              boxWidth: 10,
+              padding: 20,
+              fontSize: 13
+          }
+      },
+      
+      tooltips: {
+        backgroundColor: "rgb(255,255,255)",
+        bodyFontColor: "black",
+        borderColor: '#dddfeb',
+        borderWidth: 1,
+        bodyFontFamily: "Karla",
+        xPadding: 15,
+        yPadding: 15,
+        displayColors: true,
+        caretPadding: 10,
+      },
+      cutoutPercentage: 30,
+    },
+  });
+  
+  </script>
+</body>
+
+</html>

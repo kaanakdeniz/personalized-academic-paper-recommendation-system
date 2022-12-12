@@ -1,0 +1,17 @@
+{% extends 'base/dashbase.html' %} {% block content %}
+<div class="mr-2 ml-1 mb-4 row d-flex justify-content-between align-items-center">
+    <a class="back" href="javascript:history.back()"><i
+            class="ml-2 mr-2 fas fa-arrow-circle-left text-green-900"></i>Back</a>
+    <h1 class="h3 mb-0 text-gray-800">Recommendations for {{group}}</h1>
+    <div class="div">
+        <a onclick="loadBar()" class="btn btn-primary" href="{% url 'related-update' group.id %}"><i class="fas fa-sync mr-2"></i>Update</a>
+    </div>
+</div>
+
+<div class="card shadow bg-light">
+    {% include 'includes/table.html' %}
+</div>
+
+{% include 'includes/loadbar.html' with text="Recommendations are updating.." txt="Article analyzing.."  %}
+
+{% endblock %}

@@ -1,0 +1,164 @@
+{% extends 'base/dashbase.html' %} {% block content %}
+
+<!-- Begin Page Content -->
+
+
+<div class="mr-2 ml-1 mb-2 row  d-flex justify-content-between align-items-center">
+    <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
+    <div class="div">
+        <a href="{% url 'group-list' %}" class="btn btn-outline-success mr-2"><i class="mr-2 fas fa-pen"></i>Manage
+            Groups</a>
+    </div>
+
+</div>
+<div class="row mt-2">
+    <div class="col-xl-2 col-md-6 ">
+        <div class="card border-left-warning shadow h-75 pb-4">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">Article Groups</div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800">{{ articleGroupCount }}</div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-layer-group fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Earnings (Monthly) Card Example -->
+    <div class="col-xl-2 col-md-6">
+        <div class="card border-left-primary shadow h-75 pb-4">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Articles</div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800">{{ articleCount }}</div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-newspaper fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Earnings (Monthly) Card Example -->
+    <div class="col-xl-2 col-md-6">
+        <div class="card border-left-success shadow h-75 pb-4">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-success text-uppercase mb-1">Related Articles</div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800">{{ datasetArticleCount }}</div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-chart-line fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Earnings (Monthly) Card Example -->
+    <div class="col-xl-2 col-md-6">
+        <div class="card border-left-info shadow h-75 pb-4">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-info text-uppercase mb-1"
+                            style="white-space: nowrap;">Recommendations</div>
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-auto">
+                                <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">{{ recommendationCount }}</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-copy fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xl-2 col-md-6">
+        <div class="card border-left-success shadow h-75 pb-4">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-info text-uppercase mb-1 "
+                            style="white-space: nowrap;">Average Similarity</div>
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-auto">
+                                <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">{{ avg_sim }}</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fab fa-think-peaks fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-md-6">
+        <div class="card border-left-secondary shadow h-75 pb-4">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-info text-uppercase mb-1 "
+                            style="white-space: nowrap;">Average Relation</div>
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-auto">
+                                <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">{{ avg_rel }}</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-percentage fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pending Requests Card Example -->
+
+</div>
+<div class="row">
+    <div class="col-lg-7">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                <h6 class="m-0 font-weight-bold text-primary">Related Articles</h6>
+            </div>
+            <div class="card-body">
+                <div id="container" >
+                    <canvas id="bar-chart"></canvas>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Pie Chart -->
+    <div class="col-lg-5">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                <h6 class="m-0 font-weight-bold text-primary">Recommendations</h6>
+            </div>
+            <div class="card-body">
+                <div id="container" >
+                    <canvas id="pie-chart" width="800" height="580"></canvas>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+{% endblock %}
