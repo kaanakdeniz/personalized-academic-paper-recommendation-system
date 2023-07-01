@@ -76,3 +76,7 @@ The project dependencies are not up to date, and problems may be encountered whe
 - [ ] Update dependencies
 - [ ] Add Docker option
 - [ ] Deploy
+
+---
+
+> **Note:** This project was developed as a graduation project at [Eskisehir Osmangazi University](https://www.ogu.edu.tr/en) in 2020.
