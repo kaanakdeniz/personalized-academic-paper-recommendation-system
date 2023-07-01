@@ -12,6 +12,9 @@ The basic flow is as follows:
 6. If a detailed analysis is requested from the recommended articles, similarity scores are calculated by comparing the full text of the selected article with the full texts of the articles in the article group.
     - This similarity score is referred to as "**Similarity Score**".
 
+## Methodology
+The system uses the [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) method to extract features from the articles. The [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity) method is used to measure the similarity between articles.
+
 ## Project Structure
 
 1. **recosearch**: Contains the codes used during research, where the basic background flow is tested.
