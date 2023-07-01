@@ -18,8 +18,6 @@ The basic flow is as follows:
 2. **RecosearchWeb**: Contains the codes of the web application developed with Django.
 
 
-### Requirements
-
 ## Screenshots
 
 ### Home Page
